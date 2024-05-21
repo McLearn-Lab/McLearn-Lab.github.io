@@ -21,7 +21,13 @@ h1 {
 }
 
 p {
+    /*text*/
     color: #666;
-    font-size: 18px;
+    font-size: 24px;
     line-height: 1.5;
+
+    /*location*/
+    position: absolute;
+    width: 60%;
+    left: 20%;
 }
