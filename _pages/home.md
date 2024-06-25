@@ -53,8 +53,8 @@ permalink: /
 We are a research group at Carnegie Mellon University that studies learning sciences, educational technology, digital learning games, intelligent tutoring systems, collaborative learning, and e-learning principles.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cmu_logo.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf_logo.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/cmu_logo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/nsf_logo.png" style="width: 110px">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
 </figure>
