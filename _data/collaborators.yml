@@ -1,0 +1,73 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Richard Mayer
+  photo: rock.jpg
+  info: 
+  email:
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Ryan Baker
+  photo: rock.jpg
+  info: 
+  email:
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Vincent Aleven
+  photo: rock.jpg
+  info: 
+  email:
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Nicole Else-Quest
+  photo: rock.jpg
+
+- name: Jess Hammer
+  photo: rock.jpg
+
+- name: Eniko Bereczki,
+  photo: rock.jpg
+  
+- name: Zsofia Takacs
+  photo: rock.jpg
+  
+- name: Sandy Katz
+  photo: rock.jpg
+  
+- name: Erik Harpstead
+  photo: rock.jpg
+  
+- name: Jon Star
+  photo: rock.jpg
+  
+- name: Ken Holstein
+  photo: rock.jpg
+  
+- name: Deanne Adams
+  photo: rock.jpg
+  
+- name: Nikol Rummel
+  photo: rock.jpg
+  
+- name: Dave Yaron
+  photo: rock.jpg
+  

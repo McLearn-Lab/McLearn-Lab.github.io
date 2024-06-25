@@ -8,12 +8,8 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!-- # Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), # # [administrative support](#administrative-support). -->
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support).
-
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -76,11 +72,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-
-
-## Master and Bachelor Students
+## Key Collaborators
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.collaborators %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -89,6 +83,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -132,10 +127,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+## Former Members
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.former_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -147,6 +142,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  
   <ul style="overflow: hidden">
 
   </ul>
@@ -165,29 +161,17 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former Visitors
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
+
+{% for member in site.data.former_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
 
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
 
 </div>
 
