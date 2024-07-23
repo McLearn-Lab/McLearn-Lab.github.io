@@ -9,37 +9,34 @@ permalink: /
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
+
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <!-- <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li> -->
+      {% for item in site.data.carousel %}
+        <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></li>
+      {% endfor %}
     </ol>
+
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepageslider/angle_jungle.PNG" alt="Slide 1" />
+      {% for item in site.data.carousel %}
+        <!--Image, link -->
+        <div class="carousel-item item {% if forloop.first %}active{% endif %}">
+          <a href="{{site.url}}{{site.baseurl}}{{item.caption_link}}">
+            <img class="d-block w-100" src="{{site.url}}{{site.baseurl}}/images/homepageslider/{{ item.image }}" alt="{{ item.caption_text }}">
+          </a>
+        
+          <!--Captions-->
+          <div class="carousel-caption d-none d-md block">
+            <p>{{ item.caption_text }}</p>
+          </div>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepageslider/decimal_point.PNG" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepageslider/stoich_tutor.PNG" alt="Slide 3" />
-        </div>
-        <!-- <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepageslider/lab_logo.jpeg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepageslider/lab_logo.jpeg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepageslider/lab_logo.jpeg" alt="Slide 6" />
-        </div> -->
+
+      {% endfor %}
     </div>
+
+    
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>

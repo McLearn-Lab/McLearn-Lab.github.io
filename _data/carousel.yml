@@ -1,0 +1,19 @@
+# - name
+#   image:
+#   caption_text:
+#   caption_link:
+
+- name: angle jungle
+  image: angle_jungle.PNG
+  caption_text: Angle Jungle
+  caption_link: /projects
+  
+- name: decimal point
+  image: decimal-point-map.jpg
+  caption_text: Decimal Point
+  caption_link: /projects
+
+- name: stoich tutor
+  image: stoich_tutor.PNG
+  caption_text: Stoichiometry Tutor
+  caption_link: /projects

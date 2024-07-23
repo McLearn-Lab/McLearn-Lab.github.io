@@ -1,0 +1,32 @@
+# - title: 
+#   link: 
+#   info: 
+#   image:
+  # publications:
+  #   - title: 
+  #   image: 
+  #   description:
+  #   authors: 
+  #   link:
+  #     url: 
+  #     display: 
+  #   highlight: 1 or 0
+
+- title: Angle Jungle
+  link: nsfecr.com
+  info: hello world
+  image: image.png
+  
+- title: Decimal Point
+  link: nsfecr.com
+  info: hello world
+  image: image.png
+
+- title: Stoichiometry Tutor
+  link: nsfecr.com
+  info: hello world
+  image: image.png
+
+- title: Future of Work
+
+- title: Ocean Adventure
