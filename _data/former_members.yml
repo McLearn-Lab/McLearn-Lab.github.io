@@ -1,10 +1,76 @@
-# - name: Huy Nguyen
-#   photo: rock.jpg
-#   duration: Member of the McLearn Lab from _ to _
-#   info: Tutorshop wizard among other things
-#   email: 
+# - name: 
+#   photo: 
+#   duration: 
+#   info: 
 
-- name: Huy Nguyen
+
+- name: Huy Nguyễn
   photo: rock.jpg
   duration: Graduated 2024
   info: PhD student
+
+- name: J. Elizabeth Richey
+  photo: rock.jpg
+  duration:
+  info: Project Scientist
+  
+- name: Michael Mogessie
+  photo: rock.jpg
+  duration:
+  info: Systems Scientist
+  
+- name: Yeyu Wang
+  photo: rock.jpg
+  duration:
+  info: Research Assistant
+
+- name: Xinying Wang
+  photo: rock.jpg
+  duration:
+  info: Research Assistant
+  
+- name: Patrick McLaren
+  photo: rock.jpg
+  duration:
+  info: Research Assistant
+  
+- name: Irene Chounta
+  photo: rock.jpg
+  duration:
+  info: Post Doc
+
+- name: Seiji Isotani
+  photo: rock.jpg
+  duration:
+  info: Post Doc
+
+- name: Craig Ganoe
+  photo: rock.jpg
+  duration:
+  info: Research Programmer
+
+- name: Martin Van Velsen
+  photo: rock.jpg
+  duration:
+  info: Research Programmer
+
+- name: Ben MacLaren
+  photo: rock.jpg
+  duration:
+  info: Research Programmer
+
+- name: Angela Wagner
+  photo: rock.jpg
+  duration:
+  info: Research Assistant
+
+- name: Max Altman
+  photo: rock.jpg
+  duration:
+  info: Research Assistant
+
+- name: Sung-Joo Lim
+  photo: rock.jpg
+  duration:
+  info: Research Assistant
+

@@ -203,3 +203,51 @@ firstp {
 .glyphicon-chevron-left{
 	color: black;
 }
+
+/*============================================== PROJECT PAGE ================================ */
+@media (min-width: 000px){
+	.project-img{
+		max-height: 100px;
+	}
+}
+
+
+@media (min-width: 300px){
+	.project-img{
+		max-height: 120px;
+	}
+}
+
+@media (min-width: 450px){
+	.project-img{
+		max-height: 200px;
+	}
+}
+
+@media (min-width: 1000px){
+	.project-img{
+		max-height: 250px;
+	
+	}
+}
+
+/* ================================= contact form =================================== */
+
+@media (max-width: 600px){
+	iframe{
+		width: 500px;
+	}
+}
+
+@media (max-width: 500px){
+	iframe{
+		width: 400px;
+	}
+}
+
+@media (max-width: 400px){
+	iframe{
+		width: 300px;
+	}
+}
+

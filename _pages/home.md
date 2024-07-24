@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-
+<p>Click on an image to learn more about the project! <b>↓↓↓</b></p>
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
 

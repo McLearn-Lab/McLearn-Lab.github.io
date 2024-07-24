@@ -1,0 +1,53 @@
+# - title: 
+#   link: 
+#   info: 
+#   image:
+  # publications:
+  #   - title: 
+  #   image: 
+  #   description:
+  #   authors: 
+  #   link:
+  #     url: 
+  #     display: 
+  #   highlight: 1 or 0
+
+- title: Angle Jungle
+  description: Investigating the role of self-explanation on the gender effect in digital learning games.
+  fund_link: https://new.nsf.gov/funding/opportunities/edu-core-research-ecrcore
+  fund_title: National Science Foundation, EDU Core Research
+  # pubs_link: localhost:4000/~bmclaren/mclearnlab/angle-jungle
+  # pubs_title: See publications
+  image: angle_jungle.PNG
+  
+- title: Elasticity Tutor
+  description: Exploring the efficacy of different intelligent tutoring systems for cloud-administration community college courses.
+  fund_link: https://www.nsf.gov/eng/futureofwork.jsp
+  fund_title: National Science Foundation, Future of Work
+  # pubs_link: https://cs.cmu.edu/~bmclaren/mclearnlab/research/FoW
+  # pubs_title: See publications
+  image: elasticity-tutor.jpg
+
+- title: Ocean Adventure
+  description: Investigating the role of a survey-based gender-oriented narrative on the gender effect in digital learning games.
+  fund_link: https://www.nsf.gov/
+  fund_title: National Science Foundation
+  image: ocean-adventure.JPG
+
+- title: Decimal Point
+  description: Exploring whether educational games can help middle school students learn decimals.
+  fund_link: https://www.nsf.gov/
+  fund_title: National Science Foundation
+  pubs_link: https://www.cs.cmu.edu/~bmclaren/projects/DecimalPoint/index.html
+  pubs_title: Full Decimal Point page here
+  image: decimal-point-map.jpg
+
+- title: Stoichiometry Tutor
+  description: Studying the effect of personalization and worked examples in the solving of stoichiometry problems.
+  fund_link: https://www.nsf.gov/
+  fund_title: National Science Foundation
+  # pubs_link: 
+  # pubs_title: See publications
+  image: stoich-tutor.JPG
+
+

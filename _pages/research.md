@@ -10,13 +10,18 @@ permalink: /research/
 
 
 <div class="container-fluid">
-{% for project in site.data.projects %}
-<div class="row" style="border: solid">
-<h5> {{project.title}} </h5>
-<p> updating soon </p> 
+ {% for project in site.data.research %}
+<div class="row well" style="border: solid;">
+<div class="col-md-6">
+<h4><b>{{ project.title }}</b></h4>
+<p>{{ project.description }}</p>
+<a href="{{ project.pubs_link }}">{{ project.pubs_title }}</a>
+<p>Funding: <a href="{{ project.fund_link }}">{{ project.fund_title }}</a></p>
+</div>
+<div class="col-md-6">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/{{ project.image }}" alt="Project Image" class="project-img" />
+</div>
 </div>
 
-
-{% endfor %} 
-
+{% endfor %}
 </div>

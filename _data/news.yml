@@ -1,5 +1,12 @@
-# - date: June 25, 2024
-#   headline: First iteration of this site published!
+# - date: 
+#   headline: 
+#   link:
+#   link_text:
+
+- date: Soon to be published!
+  headline: 'McLaren, B.M. (in press). Decimal Point: A decade of learning science findings with a digital learning game. To appear in P. Ilic, R. Wegerif, & I. Casebourne (Eds.), Artificial Intelligence in Education: The Intersection of Technology and Pedagogy.  Springer Verlag Germany.'
+  link: http://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
+  link_text: '[ pdf ]'
 
 - date: July 8-12, 2024
   headline: Dr. McLaren gave two talks at the AIED conference in Brazil

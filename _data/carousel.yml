@@ -3,17 +3,27 @@
 #   caption_text:
 #   caption_link:
 
-- name: angle jungle
+- name: Angle Jungle
   image: angle_jungle.PNG
   caption_text: Angle Jungle
-  caption_link: /projects
+  caption_link: /research
   
-- name: decimal point
+- name: Decimal Point
   image: decimal-point-map.jpg
   caption_text: Decimal Point
-  caption_link: /projects
+  caption_link: /research
 
-- name: stoich tutor
+- name: Stoichiometry Tutor
   image: stoich_tutor.PNG
   caption_text: Stoichiometry Tutor
-  caption_link: /projects
+  caption_link: /research
+
+- name: Elasticity Tutor
+  image: elasticity-tutor.jpg
+  caption_text: Elasticity Tutor
+  caption_link: /research
+
+- name: Ocean Adventure
+  image: ocean-adventure.jpg
+  caption_text: Ocean Adventure
+  caption_link: /research
