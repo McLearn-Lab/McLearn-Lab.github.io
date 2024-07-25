@@ -5,8 +5,9 @@ excerpt: "McLearn Lab CMU"
 sitemap: false
 permalink: /
 ---
+<h4>We are a research group at Carnegie Mellon University that studies learning sciences, educational technology, digital learning games, intelligent tutoring systems, collaborative learning, and e-learning principles.</h4>
 
-<p>Click on an image to learn more about the project! <b>↓↓↓</b></p>
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
 
@@ -46,8 +47,7 @@ permalink: /
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-We are a research group at Carnegie Mellon University that studies learning sciences, educational technology, digital learning games, intelligent tutoring systems, collaborative learning, and e-learning principles.
+<h4>Click on an image to learn more about the project! <b>↑↑↑</b></h4>
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/cmu_logo.png" style="width: 150px">

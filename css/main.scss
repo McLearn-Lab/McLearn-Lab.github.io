@@ -233,6 +233,7 @@ firstp {
 
 /* ================================= contact form =================================== */
 
+//make sure it fits
 @media (max-width: 600px){
 	iframe{
 		width: 500px;
@@ -251,3 +252,8 @@ firstp {
 	}
 }
 
+//center it 
+iframe{
+	display: block;
+	margin: auto;
+}

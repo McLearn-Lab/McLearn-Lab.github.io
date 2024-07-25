@@ -1,17 +1,17 @@
 #- name:
-#  photo: rock.jpg
+#  photo: 
 #  info:
-#  email:
-#  number_educ:
+#  site:
+#  number_educ: N
 #  education1:
 #  education2:
 #  education3:
-#  education4:
+#  educationN:
 
 - name: Bruce McLaren (PI)
   photo: bruce-mclaren.jpg
   info: Faculty at CMU since 2003
-  email: bmclaren@andrew.cmu.edu
+  site: https://cs.cmu.edu/~bmclaren
   number_educ: 4
   education1: PhD. in Intelligent Systems, University of Pittsburgh
   education2: M.S. in Intelligent Systems, University of Pittsburgh

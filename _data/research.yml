@@ -1,53 +1,125 @@
 # - title: 
-#   link: 
-#   info: 
+#   description: 
+
+#   grants:
+  # - link:
+  #   title:
+  # - link:
+  #   title:
+
+#   site_link:
+#   site_title:
+
 #   image:
-  # publications:
-  #   - title: 
-  #   image: 
-  #   description:
-  #   authors: 
-  #   link:
-  #     url: 
-  #     display: 
-  #   highlight: 1 or 0
+
+#   publications:
+  # - authors:
+  #   title: 
+  #   link: 
+  # - authors:
+  #   title: 
+  #   link: 
+
+
+- title: Decimal Point
+  description: Exploring whether educational games can help middle school students learn decimals.
+  
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201796&HistoricalAwards=false
+    title: 'National Science Foundation: EHR Core Research, Award No: 2201796'
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1238619
+    title: 'National Science Foundation, Division of Research on Learning, Award No: 1238619'
+  - link: 
+    title: Simon Initiative Grant (Internal CMU)
+  
+  site_link: https://www.cs.cmu.edu/~bmclaren/projects/DecimalPoint/index.html
+  site_title: Visit the Decimal Point website!
+  
+  image: decimal-point.jpg
+
+  publications: 
+    - authors: 
+      title:
+      link:
+    - authors:
+      title:
+      link:
+
+- title: Stoichiometry Tutor
+  description: Studying the effect of personalization and worked examples in the solving of stoichiometry problems.
+  
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=0354420
+    title: 'National Science Foundation, Award No: 0354420'
+  
+  site_link:
+  site_title:
+  
+  image: stoich-tutor.jpg
+
+  publications: 
+  - authors: 
+    title:
+    link:
+  - authors:
+    title:
+    link:
+
+- title: AdaptErrEx
+  description: Exploring the learning benefits of erroneous examples within the context of middle school mathematics.
+  
+  grants:
+  - link: https://ies.ed.gov/funding/grantsearch/details.asp?ID=817
+    title: 'US Department of Education (IES), Award No: R305A090460'
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=0354420
+    title: 'National Science Foundation, Award No: 0354420'
+  
+  site_link: https://www.cs.cmu.edu/~bmclaren/projects/AdaptErrEx/index.html
+  site_title: Visit the AdaptErrEx website!
+  
+  image: adapterrex.jpg
+  
+  publications: 
+    - authors: 
+      title:
+      link:
+    - authors:
+      title:
+      link:
 
 - title: Angle Jungle
   description: Investigating the role of self-explanation on the gender effect in digital learning games.
-  fund_link: https://new.nsf.gov/funding/opportunities/edu-core-research-ecrcore
-  fund_title: National Science Foundation, EDU Core Research
-  # pubs_link: localhost:4000/~bmclaren/mclearnlab/angle-jungle
-  # pubs_title: See publications
-  image: angle_jungle.PNG
+  
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201796&HistoricalAwards=false
+    title: 'National Science Foundation: EHR Core Research, Award No: 2201796'
+  
+  site_link:
+  site_title:
+  
+  image: angle-jungle.jpg
   
 - title: Elasticity Tutor
-  description: Exploring the efficacy of different intelligent tutoring systems for cloud-administration community college courses.
-  fund_link: https://www.nsf.gov/eng/futureofwork.jsp
-  fund_title: National Science Foundation, Future of Work
-  # pubs_link: https://cs.cmu.edu/~bmclaren/mclearnlab/research/FoW
-  # pubs_title: See publications
+  description: Exploring the efficacy of AI-augmented learning technologies for community college information technology courses.
+  
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222762&HistoricalAwards=false
+    title: 'National Science Foundation, Future of Work, Award No: 2222762'
+  
+  site_link:
+  site_title:
+  
   image: elasticity-tutor.jpg
 
 - title: Ocean Adventure
   description: Investigating the role of a survey-based gender-oriented narrative on the gender effect in digital learning games.
-  fund_link: https://www.nsf.gov/
-  fund_title: National Science Foundation
-  image: ocean-adventure.JPG
-
-- title: Decimal Point
-  description: Exploring whether educational games can help middle school students learn decimals.
-  fund_link: https://www.nsf.gov/
-  fund_title: National Science Foundation
-  pubs_link: https://www.cs.cmu.edu/~bmclaren/projects/DecimalPoint/index.html
-  pubs_title: Full Decimal Point page here
-  image: decimal-point-map.jpg
-
-- title: Stoichiometry Tutor
-  description: Studying the effect of personalization and worked examples in the solving of stoichiometry problems.
-  fund_link: https://www.nsf.gov/
-  fund_title: National Science Foundation
-  # pubs_link: 
-  # pubs_title: See publications
-  image: stoich-tutor.JPG
-
+  
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201796&HistoricalAwards=false
+    title: 'National Science Foundation: EHR Core Research, Award No: 2201796'
+  
+  site_link:
+  site_title:
+  
+  image: ocean-adventure.jpg
 

@@ -1,7 +1,7 @@
 #- name:
 #  photo: rock.jpg
 #  info:
-#  email:
+#  site:
 #  number_educ:
 #  education1:
 #  education2:
@@ -29,7 +29,7 @@
 - name: Alessandro Pagano
   photo: alessandro-pagano.jpg
   info: Assistant Professor, Computer Science at University of Bari, Italy
-  email: 
+  site: https://alessandropagano.net/#home
   number_educ: 2
   education1: PhD in Computer Science, 2012
   education2: Master's in Economics, 2008
