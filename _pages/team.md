@@ -148,7 +148,11 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.site  %}
+  <h4><a href="{{ member.site }}">{{ member.name }}</a></h4>
+  {% else %}
   <h4>{{ member.name }}</h4>
+  {% endif %}
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -231,7 +235,11 @@ permalink: /team/
 <div class="col-sm-4 clearfix">
 
 {% for member in site.data.former_visitors %}
+{% if member.site %}
+<a href="{{ member.site }}">{{ member.name }}</a>
+{% else %} 
 {{ member.name }}
+{% endif %}
 {% endfor %}
 </div>
 

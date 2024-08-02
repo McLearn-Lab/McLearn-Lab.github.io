@@ -33,3 +33,10 @@
   number_educ: 2
   education1: PhD in Computer Science, 2012
   education2: Master's in Economics, 2008
+
+- name: Xiaolin Ni
+  photo: xiaolin-ni.jpg
+  info: Research Assistant, started 2023
+  site: https://www.linkedin.com/in/xiaoliny
+  number_educ: 1
+  education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University

@@ -1,73 +1,54 @@
 #- name:
 #  photo: rock.jpg
 #  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+#  site: 
 
 - name: Richard Mayer
-  photo: rock.jpg
-  info: 
-  email:
-  number_educ:
-  education1:
-  education2:
-  education3:
-  education4:
-
+  photo: richard-mayer.jpg
+  info: Distinguished Professor, University of California, Santa Barbara
+  site: https://mayerlab.psych.ucsb.edu/people/richard-mayer
 - name: Ryan Baker
-  photo: rock.jpg
-  info: 
-  email:
-  number_educ:
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: Vincent Aleven
-  photo: rock.jpg
-  info: 
-  email:
-  number_educ:
-  education1:
-  education2:
-  education3:
-  education4:
+  photo: ryan-baker.jpg
+  info: Professor, University of Pennsylvania
+  site: https://www.gse.upenn.edu/academics/faculty-directory/baker
 
 - name: Nicole Else-Quest
-  photo: rock.jpg
+  photo: nicole-else-quest.jpg
+  info: Associate Professor, University of North Carolina at Chapel Hill
+  site: https://womensstudies.unc.edu/person/else-quest-nicole/
 
 - name: Jess Hammer
-  photo: rock.jpg
+  photo: jess-hammer.jpg
+  info: Associate Professor of Learning Sciences, Carnegie Mellon University
+  site: https://www.hcii.cmu.edu/people/jessica-hammer
 
-- name: Eniko Bereczki,
-  photo: rock.jpg
+- name: Eniko Bereczki
+  photo: eniko-bereczki.jpg
+  info: Assistant Professor, Eötvös Loránd University
+  site: https://www.enikobereczki.com/
   
 - name: Zsofia Takacs
-  photo: rock.jpg
+  photo: zsofia-takacs.jpg
+  info: Lecturer in Applied Psychology, The University of Edinburgh
+  site: https://www.ed.ac.uk/profile/zsofia-garai-takacs
   
 - name: Sandy Katz
-  photo: rock.jpg
+  photo: sandy-katz.jpg
+  info: Research Associate, TELL Lab, University of Pittsburgh
+  site: https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=25
   
 - name: Erik Harpstead
-  photo: rock.jpg
+  photo: erik-harpstead.jpg
+  info: System Scientist, Carnegie Mellon University
+  site: https://www.erikharpstead.net/
   
 - name: Jon Star
-  photo: rock.jpg
-  
-- name: Ken Holstein
-  photo: rock.jpg
-  
-- name: Deanne Adams
-  photo: rock.jpg
-  
-- name: Nikol Rummel
-  photo: rock.jpg
-  
+  photo: jon-star.jpg
+  info: Professor of Education, Harvard University
+  site: https://www.gse.harvard.edu/directory/faculty/jon-star
+
 - name: Dave Yaron
-  photo: rock.jpg
+  photo: dave-yaron.jpg
+  info: Professor of Chemistry, Carnegie Mellon University
+  site: https://www.cmu.edu/chemistry/people/faculty/yaron.html
   
