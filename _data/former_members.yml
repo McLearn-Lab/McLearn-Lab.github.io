@@ -1,71 +1,84 @@
 # - name: 
 #   photo: 
-#   duration: 
 #   info: 
-
+#   role_with_lab: 
+#   site: 
 
 - name: Huy Nguyễn
-  photo: rock.jpg
-  duration: Graduated 2024
-  info: PhD student
+  photo: huy-nguyen.jpg
+  info: Applied Scientist, Amazon
+  role_with_lab: PhD Student
+  site: https://www.cs.cmu.edu/~hn1/
 
 - name: J. Elizabeth Richey
-  photo: rock.jpg
-  duration:
-  info: Project Scientist
+  photo: elizabeth-richey.jpg
+  info: Teaching Assistant Professor, Psychology
+  role_with_lab: Project Scientist
+  site: https://www.psychology.pitt.edu/people/elizabeth-richey
   
 - name: Michael Mogessie
-  photo: rock.jpg
-  duration:
-  info: Systems Scientist
+  photo: michael-mogessie.jpg
+  info: Project Scientist, Carnegie Mellon University 
+  role_with_lab: Systems Scientist
+  site: https://www.michaelmogessie.info/
   
 - name: Yeyu Wang
-  photo: rock.jpg
-  duration:
-  info: Research Assistant
+  photo: yeyu-wang.jpg
+  info: PhD Student, University of Wisconsin-Madison
+  role_with_lab: Research Assistant
+  site: https://edpsych.education.wisc.edu/staff/wang-yeyu/
 
-- name: Xinying Wang
-  photo: rock.jpg
-  duration:
-  info: Research Assistant
-  
+- name: Xinying Hou
+  photo: xinying-hou.jpg
+  info: PhD Student, University of Michigan
+  role_with_lab: Research Assistant
+  site: https://www.si.umich.edu/people/xinying-hou
+
 - name: Patrick McLaren
-  photo: rock.jpg
-  duration:
-  info: Research Assistant
+  photo: patrick-mclaren.jpg
+  info: East End Handyman
+  role_with_lab: Research Assistant
+  site: https://eastendhandy.com/
   
 - name: Irene Chounta
-  photo: rock.jpg
-  duration:
-  info: Post Doc
+  photo: irene-chounta.jpg
+  info: Professor, University of Duisburg-Essen
+  role_with_lab: Postdoctoral Researcher
+  site: http://iachounta.com/website/
 
 - name: Seiji Isotani
-  photo: rock.jpg
-  duration:
-  info: Post Doc
+  photo: seiji-isotani.jpg
+  info: Professor, University of Sao Paulo
+  role_with_lab: Postdoctoral Researcher
+  site: https://sites.icmc.usp.br/sisotani/
 
 - name: Craig Ganoe
-  photo: rock.jpg
-  duration:
-  info: Research Programmer
+  photo: craig-ganoe.jpg
+  info: Research Scientist, Dartmouth College
+  role_with_lab: Research Programmer
+  site: http://ganoe.me/
 
 - name: Martin Van Velsen
-  photo: rock.jpg
-  duration:
-  info: Research Programmer
+  photo: martin-van-velsen.jpg
+  info: Senior Systems Software Engineer, Eberly Center, Carnegie Mellon University
+  role_with_lab: Research Programmer
+  site: https://www.cmu.edu/teaching/aboutus/vanvelsen.html
 
 - name: Ben MacLaren
-  photo: rock.jpg
-  duration:
-  info: Research Programmer
+  photo: ben-maclaren.jpg
+  info: Cognitive Scientist, Carnegie Mellon University
+  role_with_lab: Research Programmer
+  site: https://www.researchgate.net/profile/Benjamin-Maclaren
 
 - name: Angela Wagner
-  photo: rock.jpg
-  duration:
-  info: Research Assistant
+  photo: angela-wagner.jpg
+  info: Senior Systems / Software Engineer, Robotics Institute, Carnegie Mellon University
+  role_with_lab: Research Assistant
+  site: https://www.ri.cmu.edu/ri-people/angela-wagner/
 
 - name: Sung-Joo Lim
-  photo: rock.jpg
-  duration:
-  info: Research Assistant
+  photo: sung-joo-lim.jpg
+  info: Assistant Professor, Binghampton University
+  role_with_lab: Research Assistant
+  site: https://www.binghamton.edu/psychology/people/profile.html?id=sungjoo
 

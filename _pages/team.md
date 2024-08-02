@@ -208,8 +208,13 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.site  %}
+  <h4><a href="{{ member.site }}">{{ member.name }}</a></h4>
+  {% else %}
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  {% endif %}
+  <i>{{ member.info }}</i><br>
+  <p>Role with Lab: {{ member.role_with_lab }}</p>
   
   <ul style="overflow: hidden">
 
@@ -243,10 +248,7 @@ permalink: /team/
 {% endfor %}
 </div>
 
-
-
 </div>
-
 
 ## Administrative Support
 <a href = "https://hcii.cmu.edu/people/reenie-kirby">Reenie Kirby</a> serves as Administrative Assistant for us and other labs within HCII at CMU.
