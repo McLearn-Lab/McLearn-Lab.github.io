@@ -24,7 +24,7 @@ permalink: /research/
 {% if grant.link %}</a>{% endif %}
 {% endfor %}
 <a href="#publications-{{ project.title | replace: ' ', '-' }}" id="publications-{{ project.title | replace: ' ', '-' }}-toggler" data-toggle="collapse" class="pubs-toggler" aria-expanded="false">
-Featured Publications
+Representative Publications
 <span class="triangle triangle-right"></span>
 <span class="triangle triangle-down"></span>
 </a>

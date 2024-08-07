@@ -27,6 +27,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+exclude:
+  - README.md
+  - _pages/interns.md
 
 
 # Markdown Processing
