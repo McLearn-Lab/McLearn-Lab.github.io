@@ -74,6 +74,7 @@ p.byline {
 
 pubtit {
 	font-weight: bold;
+	display: inline;
 }
 
 firstp {
@@ -218,13 +219,19 @@ firstp {
 	}
 }
 
-@media (min-width: 450px){
+@media (min-width: 576px){
 	.project-img{
 		max-height: 200px;
 	}
 }
 
-@media (min-width: 1000px){
+@media (min-width: 840px){
+	.project-img{
+		max-height: 225px;
+	}
+}
+
+@media (min-width: 992px){
 	.project-img{
 		max-height: 250px;
 	
@@ -257,3 +264,35 @@ iframe{
 	display: block;
 	margin: auto;
 }
+
+
+/* ========================================== publications dropdown ========================== */
+.triangle {
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	margin-right: 5px;
+}
+
+a.pubs-toggler {
+	font-size: 25px;
+}
+.triangle-right {
+	border-width: 10px 0 10px 10px;
+	border-color: transparent transparent transparent #007bff;
+}
+
+.triangle-down {
+	border-width: 10px 10px 0 10px;
+	border-color: #007bff transparent transparent transparent;
+}
+
+.pubs-toggler[aria-expanded="true"] .triangle-right {
+	display: none;
+}
+
+.pubs-toggler[aria-expanded="false"] .triangle-down {
+	display: none;
+}
+

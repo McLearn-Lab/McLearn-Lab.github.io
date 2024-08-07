@@ -1,22 +1,22 @@
-# - name
-#   image:
-#   caption_text:
-#   caption_link:
+# - name: (Bolded title of project)
+#   image: (Image file, relative to folder images/research)
+#   caption_text: (caption displayed)
+#   caption_link: (link, of the style "/research#project-Name-Of-Project" (replace white space with hyphens))
 
 - name: Angle Jungle
   image: angle_jungle.PNG
   caption_text: Angle Jungle
-  caption_link: /research
+  caption_link: "/research#project-Angle-Jungle"
   
 - name: Decimal Point
   image: decimal-point-map.jpg
   caption_text: Decimal Point
-  caption_link: /research
+  caption_link: /research#project-Decimal-Point
 
 - name: Stoichiometry Tutor
   image: stoich_tutor.PNG
   caption_text: Stoichiometry Tutor
-  caption_link: /research
+  caption_link: /research#project-Stoichiometry-Tutor
 
 - name: Elasticity Tutor
   image: elasticity-tutor.jpg

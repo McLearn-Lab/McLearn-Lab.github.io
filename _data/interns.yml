@@ -5,33 +5,73 @@
 #   number_educ:
 #   education1:
 #   education2:
-
-- name: Doan-Viet Nguyen
-  photo: doan-viet-nguyen.jpg
-  info: Digital Learning Games Quality Assurance Programmer Intern, started 2024
-  site: https://www.linkedin.com/in/doan-viet-nguyen-135206252/
-  number_educ: 1
-  education1: (In progress) BA in Information Science, Cornell University
-
-
-- name: Krystof Purtell
-  photo: krystof-purtell.jpg
-  info: Cloud Administrator Intelligent Tutor Programmer Intern, started 2024
-  site: https://www.linkedin.com/in/krystof-purtell
-  number_educ: 1
-  education1: (in progress) B.A. in Mathematics and Computer Science at University of Pennsylvania
-
-- name: Autumn Qiu
-  photo: autumn-qiu.jpg
-  info: Digital Learning Game Programmer Intern, started 2024
-  site: https://www.linkedin.com/in/autumn-qiu/
-  number_educ: 1
-  education1: (in progress) BS in Information Systems, Carnegie Mellon University
+- year: 2024
+  people:
+  - name: Doan-Viet Nguyen
+    photo: doan-viet-nguyen.jpg
+    info: Digital Learning Games Quality Assurance Programmer Intern, started 2024
+    site: https://www.linkedin.com/in/doan-viet-nguyen-135206252/
+    number_educ: 1
+    education1: (In progress) BA in Information Science, Cornell University
 
 
-- name: Sila Yesilyurt
-  photo: sila-yesilyurt.jpg
-  info: Digital Learning Game Programmer Intern, started 2024
-  site: 
-  number_educ: 1
-  education1: (in progress) BS in Artificial Intelligence, Carnegie Mellon University
+  - name: Krystof Purtell
+    photo: krystof-purtell.jpg
+    info: Cloud Administrator Intelligent Tutor Programmer Intern, started 2024
+    site: https://www.linkedin.com/in/krystof-purtell
+    number_educ: 1
+    education1: (in progress) B.A. in Mathematics and Computer Science at University of Pennsylvania
+
+  - name: Autumn Qiu
+    photo: autumn-qiu.jpg
+    info: Digital Learning Game Programmer Intern, started 2024
+    site: https://www.linkedin.com/in/autumn-qiu/
+    number_educ: 1
+    education1: (in progress) BS in Information Systems, Carnegie Mellon University
+
+
+  - name: Sila Yesilyurt
+    photo: sila-yesilyurt.jpg
+    info: Digital Learning Game Programmer Intern, started 2024
+    site: 
+    number_educ: 1
+    education1: (in progress) BS in Artificial Intelligence, Carnegie Mellon University
+
+- year: 2023
+  people:
+  - name: Kevin He
+  - name: Michael Klikushin
+  - name: Aditi Haiman
+  - name: Marcus Alenius
+
+- year: 2022
+  people: 
+  - name: William Wang
+  - name: Dara Casey
+
+- year: 2021
+  people:
+  - name: Sarah Huang
+  - name: Hasana Muhammad
+
+- year: 2020
+  people: 
+  - name: Sarah Di
+  - name: Vy Nguyen
+  - name: Michelle Zhang
+  - name: Miaojun Xu
+
+- year: 2019
+  people:
+  - name: James Wei
+  - name: Malik (Joshua) Richardson
+  - name: Tingting Liu
+  - name: lily Lou
+  - name: Matheus Barbosa
+
+- year: 2018
+  people:
+  - name: Patrick Healy
+  - name: Pooja Casula
+  - name: Sung Hyun (Daniel) Back
+  - name: Yijun Qian

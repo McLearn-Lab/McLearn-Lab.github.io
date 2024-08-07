@@ -62,7 +62,36 @@
   site: https://www.linkedin.com/in/daniel-pollock-117895207/
   number_educ: 1
   education1: BS in Applied Developmental Psychology, University of Pittsburgh
-  
+
+- name: Doan-Viet Nguyen
+  photo: doan-viet-nguyen.jpg
+  info: Digital Learning Games Quality Assurance Programmer Intern, started 2024
+  site: https://www.linkedin.com/in/doan-viet-nguyen-135206252/
+  number_educ: 1
+  education1: (In progress) BA in Information Science, Cornell University
+
+
+- name: Krystof Purtell
+  photo: krystof-purtell.jpg
+  info: Cloud Administrator Intelligent Tutor Programmer Intern, started 2024
+  site: https://www.linkedin.com/in/krystof-purtell
+  number_educ: 1
+  education1: (in progress) B.A. in Mathematics and Computer Science at University of Pennsylvania
+
+- name: Autumn Qiu
+  photo: autumn-qiu.jpg
+  info: Digital Learning Game Programmer Intern, started 2024
+  site: https://www.linkedin.com/in/autumn-qiu/
+  number_educ: 1
+  education1: (in progress) BS in Information Systems, Carnegie Mellon University
+
+
+- name: Sila Yesilyurt
+  photo: sila-yesilyurt.jpg
+  info: Digital Learning Game Programmer Intern, started 2024
+  site: 
+  number_educ: 1
+  education1: (in progress) BS in Artificial Intelligence, Carnegie Mellon University
 
 
 - name: "Interested in working with our lab?"

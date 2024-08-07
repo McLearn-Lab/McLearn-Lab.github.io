@@ -6,27 +6,67 @@ sitemap: false
 permalink: /research/
 ---
 
-<h2>Research (for a full list of publications, <a href="https://www.cs.cmu.edu/~bmclaren/publications.html"><b>click here</b></a>)</h2>
-
-
 <div class="container-fluid">
+{% assign number_printed = 0 %}
 {% for project in site.data.research %}
-<div class="row well" style="border: solid;">
-<div class="col-md-6">
+<div class="row well" id="project-{{ project.title | replace: ' ', '-' }}" style="border: solid;">
+<div class="col-sm-6 clearfix">
 <h4><b>{{ project.title }}</b></h4>
 <p>{{ project.description }}</p>
-<a href="{{ project.site_link }}">{{ project.site_title }}</a>
-
+<h4><a href="{{ project.site_link }}">{{ project.site_title }}</a></h4>
 {% for grant in project.grants %}
-{% if forloop.first %}<b>Grants:</b> {% endif %}{% if grant.link %}<a href="{{grant.link}}">{% endif %}{{grant.title}}{% if grant.link %}</a>{% endif %}{% if forloop.last %}{% else %}, {% endif %}
-
+{% if forloop.first %}<b>Grants:</b> {% endif %}
+{% if grant.link %}<a href="{{grant.link}}">{% endif %}
+{{grant.title}}
+{% if grant.link %}</a>{% endif %}
+{% if forloop.last %}{% else %}, {% endif %}
 {% endfor %}
+<a href="#publications-{{ project.title | replace: ' ', '-' }}" id="publications-{{ project.title | replace: ' ', '-' }}-toggler" data-toggle="collapse" class="pubs-toggler" aria-expanded="false">
+Featured Publications
+<span class="triangle triangle-right"></span>
+<span class="triangle triangle-down"></span>
+</a>
 
 </div>
-<div class="col-md-6">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/{{ project.image }}" alt="Project Image" class="project-img" />
-</div>
+<div class="col-sm-6 clearfix">
+<img class = "col-sm-6 clearfix" src="{{ site.url }}{{ site.baseurl }}/images/research/{{ project.image }}" alt="Project Image" class="project-img" />
 </div>
 
+<div class="col-md-12">
+
+<div class="collapse publications" id="publications-{{ project.title | replace: ' ', '-' }}">
+{% assign number_pubs = 0 %}
+{% for publication in project.publications %}
+{% assign even_odd = number_pubs | modulo: 2 %} 
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+<span><pubtit>({{publication.year}}) {{ publication.title | markdownify | strip_html }}</pubtit></span>
+<img src="{{ site.url }}{{ site.baseurl }}/images/publications/{{ publication.image }}" class="img-responsive" width="33%" style="float: left" />
+<p>{{ publication.description }}</p>
+<em>{{ publication.authors }}</em><br />
+
+{% if publication.link_url %}
+<strong><a href="{{ publication.link_url }}">{{ publication.link_display }}</a></strong>
+{% else %}
+<strong>{{ publication.link_display }}</strong>
+{% endif %}
+{% if publication.pdf %}
+<a href="{{ publication.pdf }}" style="color: black"><i class="fas fa-file-pdf"></i><strong>[ PDF ]</strong></a>
+{% endif %}
+
+</div>
+
+{% assign number_pubs = number_pubs | plus: 1 %}
+
+{% if even_odd == 1 or forloop.last %}
+</div>
+{% endif %}
+{% endfor %}
+</div>
+</div>
+</div> 
 {% endfor %}
 </div>

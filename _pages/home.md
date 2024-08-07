@@ -23,7 +23,7 @@ permalink: /
       {% for item in site.data.carousel %}
         <!--Image, link -->
         <div class="carousel-item item {% if forloop.first %}active{% endif %}">
-          <a href="{{site.url}}{{site.baseurl}}{{item.caption_link}}">
+          <a href="{{site.url}}{{site.baseurl}}/research?open=publications-{{ item.name | replace: ' ', '-' }}#project-{{ item.name | replace: ' ', '-' }}">
             <img class="d-block w-100" src="{{site.url}}{{site.baseurl}}/images/homepageslider/{{ item.image }}" alt="{{ item.caption_text }}">
           </a>
         

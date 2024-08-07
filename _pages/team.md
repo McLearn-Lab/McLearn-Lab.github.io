@@ -134,8 +134,9 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
+<!-- <br />
+<h2> Interns: <a href="{{ site.url }}{{ site.baseurl }}/team/interns">Click here </a></h2>
+<br /> -->
 ## Key Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborators %}
