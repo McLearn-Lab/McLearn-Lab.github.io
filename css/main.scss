@@ -206,33 +206,51 @@ firstp {
 }
 
 /*============================================== PROJECT PAGE ================================ */
-@media (min-width: 000px){
-	.project-img{
-		max-height: 100px;
-	}
-}
-
-
-@media (min-width: 300px){
-	.project-img{
+@media (min-width: 280px){
+	.project-img-sm{
 		max-height: 120px;
 	}
 }
 
+@media (min-width: 340px){
+	.project-img-sm{
+		max-height: 160px;
+	}
+}
+
+@media (min-width: 380px){
+	.project-img-sm{
+		max-height: 180px;
+	}
+}
+
 @media (min-width: 576px){
-	.project-img{
+	.project-img-sm{
+		max-height: 250px;
+	}
+}
+@media (max-width: 767px){
+	.project-img-lg{
+		display: none;
+	}
+}
+@media (min-width: 768px){
+	.project-img-lg{
 		max-height: 200px;
+	}
+	.project-img-sm{
+		display: none;
 	}
 }
 
 @media (min-width: 840px){
-	.project-img{
+	.project-img-lg{
 		max-height: 225px;
 	}
 }
 
 @media (min-width: 992px){
-	.project-img{
+	.project-img-lg{
 		max-height: 250px;
 	
 	}

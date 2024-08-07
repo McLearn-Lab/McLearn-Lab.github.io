@@ -10,9 +10,12 @@ permalink: /research/
 {% assign number_printed = 0 %}
 {% for project in site.data.research %}
 <div class="row well" id="project-{{ project.title | replace: ' ', '-' }}" style="border: solid;">
+<div class="row">
 <div class="col-sm-6 clearfix">
-<h4><b>{{ project.title }}</b></h4>
-<p>{{ project.description }}</p>
+<h4><b>{{ project.title }}: {{project.description}}</b></h4>
+<div class="text-center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/{{ project.image }}" alt="Project Image" class="project-img-sm" />
+</div>
 <h4><a href="{{ project.site_link }}">{{ project.site_title }}</a></h4>
 {% for grant in project.grants %}
 {% if forloop.first %}<b>Grants:</b> {% endif %}
@@ -29,7 +32,8 @@ Featured Publications
 
 </div>
 <div class="col-sm-6 clearfix">
-<img class = "col-sm-6 clearfix" src="{{ site.url }}{{ site.baseurl }}/images/research/{{ project.image }}" alt="Project Image" class="project-img" />
+<img class = "col-sm-6 clearfix" src="{{ site.url }}{{ site.baseurl }}/images/research/{{ project.image }}" alt="Project Image" class="project-img-lg" />
+</div>
 </div>
 
 <div class="col-md-12">
@@ -47,7 +51,9 @@ Featured Publications
 <img src="{{ site.url }}{{ site.baseurl }}/images/publications/{{ publication.image }}" class="img-responsive" width="33%" style="float: left" />
 <p>{{ publication.description }}</p>
 <em>{{ publication.authors }}</em><br />
-
+{% if publication.notes %}
+<strong style="color: red">{{ publication.notes }}</strong>
+{% endif %}
 {% if publication.link_url %}
 <strong><a href="{{ publication.link_url }}">{{ publication.link_display }}</a></strong>
 {% else %}

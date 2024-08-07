@@ -80,7 +80,7 @@
     year: 2023
     image: chatgpt-self-explanation.jpg
     description: 'Using decimal exercises and student data from a prior study of the learning game Decimal Point, with more than 5,000 open-ended self-explanation responses, we investigate ChatGPT’s capability in (1) solving the in-game exercises, (2) determining the correctness of students’ answers, and (3) providing meaningful feedback to incorrect answers.'
-    notes: Won the Best Paper Award
+    notes: Won the Best Paper Award!
     link_display: Proceedings of Eighteenth European Conference on Technology Enhanced Learning (ECTEL 2023). pp 278–293
     link_url: https://doi.org/10.48550/arXiv.2306.16639
     pdf: https://www.cs.cmu.edu/~bmclaren/pubs/NguyenEtAl-LearningGameChatGPTSelfExplanation-ECTEL2023.pdf
@@ -299,7 +299,7 @@
 
 # ======================================================== Genetics Tutor ================================================================
 - title: Genetics Tutor
-  description:
+  description: Investigating nuances in Knowledge Tracing and Cognitive Modeling using a collegiate-level genetics intelligent tutoring system.
   image: genetics-tutor.jpg
   
   site_link: https://www.cs.cmu.edu/~genetics/index.html
@@ -325,7 +325,7 @@
     year: 2016
     image: genetics-tutor-problem-2.jpg
     description: ' In this work, we examine how well Bayesian Knowledge Tracing parameters in a tutor lesson can be individualized based on learners’ prior performance in reading instructional text, taking a pretest, and completing an earlier tutor lesson.'
-    notes: Won the Best Paper Award
+    notes: Won the Best Paper Award!
     link_display: Proceedings of the 24th Conference on User Modeling, Adaptation and Personalization (UMAP 2016).  ACM, New York, NY.  (pp. 55-63)  ISBN 978-1-4503-4370-1/16/07
     link_url: https://dl.acm.org/doi/10.1145/2930238.2930255
     pdf: https://www.cs.cmu.edu/~bmclaren/pubs/EagleEtAl-PredictingIndDiffsForLearnerModelingFromPreviousActivities-UMAP2016.pdf
@@ -335,7 +335,7 @@
     year: 2016
     image: genetics-tutor-table.jpg
     description: 'Standard Bayesian Knowledge Tracing individualizes parameter estimates for skills, also referred to as knowledge components (KCs), but not for students. Studies deriving individual student parameters from the data logs of student tutor performance have shown improvements to the standard BKT model fits, and result in different practice recommendations for students. This study investigates whether individual student parameters, specifically individual difference weights (IDWs) can be derived from student activities prior to tutor use.'
-    notes: Nominated for the Best Paper Award
+    notes: Nominated for the Best Paper Award!
     link_display:  Proceedings of the 13th International Conference on Intelligent Tutoring Systems (ITS 2016).  LNCS 9684 (pp. 133-143).
     link_url: 
     pdf: https://www.cs.cmu.edu/~bmclaren/pubs/EagleEtAl-EstimatingIndividualDifferencesForStudent%20ModelingReadingAndPretestData-ITS2016.pdf
