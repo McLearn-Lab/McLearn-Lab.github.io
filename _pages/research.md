@@ -21,8 +21,7 @@ permalink: /research/
 {% if forloop.first %}<b>Grants:</b> {% endif %}
 {% if grant.link %}<a href="{{grant.link}}">{% endif %}
 {{grant.title}}
-{% if grant.link %}</a>{% endif %}
-{% if forloop.last %}{% else %}, {% endif %}
+{% if grant.link %}</a>{% endif %}{% unless forloop.last %},{% endunless %}
 {% endfor %}
 <a href="#publications-{{ project.title | replace: ' ', '-' }}" id="publications-{{ project.title | replace: ' ', '-' }}-toggler" data-toggle="collapse" class="pubs-toggler" aria-expanded="false">
 Featured Publications

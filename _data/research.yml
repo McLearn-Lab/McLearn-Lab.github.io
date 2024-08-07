@@ -141,16 +141,6 @@
   
   
   publications: 
-  - title: 'Angle Jungle: An educational game about angles.'
-    authors: Khan, J., Wang, J., Wang, X., Zhang, Y., Hammer, J., Stevens, S., & Washington, R.
-    year: 2017
-    image: angle-jungle.jpg
-    description: 'Angle Jungle is an iPad game designed as an  educational supplement for fourth to sixth grade students learning about angles. The game asks players to solve puzzles using angles, and incorporates research in numeric-spatial learning, scaffolding tools, and puzzle design to reinforce the intended experience. '
-    notes: 
-    link_display: In Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play (pp. 633-638).
-    link_url: https://dl.acm.org/doi/10.1145/3130859.3130867
-    pdf: 
-
   - title: '_Decimal Point:_ A decade of learning science findings with a digital learning game.'
     authors: McLaren, B.M.
     year: 2024
@@ -161,6 +151,15 @@
     link_url: https://www.springer.com/series/16891
     pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
 
+  - title: 'Angle Jungle: An educational game about angles.'
+    authors: Khan, J., Wang, J., Wang, X., Zhang, Y., Hammer, J., Stevens, S., & Washington, R.
+    year: 2017
+    image: angle-jungle.jpg
+    description: 'Angle Jungle is an iPad game designed as an  educational supplement for fourth to sixth grade students learning about angles. The game asks players to solve puzzles using angles, and incorporates research in numeric-spatial learning, scaffolding tools, and puzzle design to reinforce the intended experience. '
+    notes: 
+    link_display: In Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play (pp. 633-638).
+    link_url: https://dl.acm.org/doi/10.1145/3130859.3130867
+    pdf: 
 
 # ======================================================== Ocean Adventure ================================================================
 - title: Ocean Adventure
