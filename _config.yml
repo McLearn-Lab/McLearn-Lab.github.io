@@ -29,7 +29,6 @@ incremental: false
 
 exclude:
   - README.md
-  - _pages/interns.md
 
 
 # Markdown Processing

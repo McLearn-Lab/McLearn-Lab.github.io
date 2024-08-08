@@ -7,6 +7,16 @@ permalink: /research/
 ---
 
 <div class="container-fluid">
+<!-- <div class="row well">
+<form class="form-inline" role="search">
+<div class="col-xs-9 col-md-9">
+<input class="form-control" type="search" placeholder="Search for a project" aria-label="Search">
+</div>
+<div class="col-xs-1 text-right">
+<button class="btn btn-outline-success" type="submit">Search</button>
+</div>
+</form>
+</div> -->
 {% assign number_printed = 0 %}
 {% for project in site.data.research %}
 <div class="row well" id="project-{{ project.title | replace: ' ', '-' }}" style="border: solid;">

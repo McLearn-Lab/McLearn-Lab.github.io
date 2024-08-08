@@ -297,21 +297,31 @@ iframe{
 	width: 0;
 	height: 0;
 	border-style: solid;
-	margin-right: 5px;
+	// margin-right: 5px;
 }
 
-a.pubs-toggler {
-	font-size: 25px;
+@media (min-width: 480px){
+	.triangle-right {
+		border-width: 10px 0 10px 10px;
+		border-color: transparent transparent transparent #007bff;
+	}
+	.triangle-down {
+		border-width: 10px 10px 0 10px;
+		border-color: #007bff transparent transparent transparent;
+	}
 }
-.triangle-right {
-	border-width: 10px 0 10px 10px;
-	border-color: transparent transparent transparent #007bff;
+@media (max-width: 479px){
+	.triangle-right {
+		border-width: 8px 0 8px 8px;
+		border-color: transparent transparent transparent #007bff;
+	}
+	.triangle-down {
+		border-width: 8px 8px 0 8px;
+		border-color: #007bff transparent transparent transparent;
+	}
 }
 
-.triangle-down {
-	border-width: 10px 10px 0 10px;
-	border-color: #007bff transparent transparent transparent;
-}
+
 
 .pubs-toggler[aria-expanded="true"] .triangle-right {
 	display: none;
@@ -320,4 +330,17 @@ a.pubs-toggler {
 .pubs-toggler[aria-expanded="false"] .triangle-down {
 	display: none;
 }
-
+@media (max-width: 479px){
+	.pubs-toggler{
+		font-size: 20px;
+	}
+}
+@media (min-width: 480px){
+	a.pubs-toggler {
+		font-size: 25px;
+	}
+}
+/* ======================================== search bar ========================================== */
+.d-flex{
+	display: flex;
+}
