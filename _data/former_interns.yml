@@ -1,0 +1,110 @@
+# - year: 
+#   people:
+#   - name: 
+#     photo: 
+#     info:
+#     site: 
+
+#   - name: 
+#     photo: 
+#     info: 
+#     site: 
+
+- year: 2024
+  people:
+  - name: Doan-Viet Nguyen
+    photo: doan-viet-nguyen.jpg
+    info: B.A. in Information Science Student, Cornell University
+    site: https://www.linkedin.com/in/doan-viet-nguyen-135206252/
+
+  - name: Krystof Purtell
+    photo: krystof-purtell.jpg
+    info: B.A. in Mathematics and Computer Science Student, University of Pennsylvania
+    site: https://www.linkedin.com/in/krystof-purtell
+
+  - name: Autumn Qiu
+    photo: autumn-qiu.jpg
+    info: B.S. in Information Systems Student, Carnegie Mellon University
+    site: https://www.linkedin.com/in/autumn-qiu/
+
+  - name: Sila Yesilyurt
+    photo: sila-yesilyurt.jpg
+    info: B.S. in Artificial Intelligence Student, Carnegie Mellon University
+    site: 
+
+
+- year: 2023
+  people:
+  - name: Michael Klikushin
+    photo: michael-klikushin.jpg
+    info: B.S. in Computer Science Student, Georgia Tech University and Cofounder, FifthWheel Dating
+    site: https://www.linkedin.com/in/mklikushin/
+
+  - name: Aditi Haiman
+    photo: aditi-haiman.jpg
+    info: PhD. Student, Human-Computer Interaction Institute, Carnegie Mellon University
+    site: 
+
+  - name: Marcus Alenius
+    photo: marcus-alenius.jpg
+    info: B.S. in Artificial Intelligence and Informations Systems Student, Carnegie Mellon University
+    site: https://alenius.io/
+
+  - name: Kevin He
+    photo: kevin-he.jpg
+    info: B.S. in Computer Science Student, Carnegie Mellon University
+    site: https://www.linkedin.com/in/kevinhe19/
+
+
+
+- year: 2022
+  people: 
+  - name: William Wang
+    photo: william-wang.jpg
+    info: B.S. in Electrical and Computer Engineering Student, Carnegie Mellon University
+    site: https://www.linkedin.com/in/williamwang3/
+
+  - name: Dara Casey
+
+- year: 2021
+  people:
+  - name: Sarah Huang
+  - name: Hasana Muhammad
+
+- year: 2020
+  people: 
+  - name: Sarah Di
+    photo: sarah-di.jpg
+    info: M.S. in Computer Science Student, Carnegie Mellon University
+    site: http://www.sarahdi.com/
+
+  - name: Vy Nguyen
+  - name: Michelle Zhang
+  - name: Miaojun Xu
+
+- year: 2019
+  people:
+  - name: Tingting Liu
+    photo: tingting-liu.jpg
+    info: PhD. in Educational Technology Student, University of Hong Kong and Assistant Professor, Hubei University
+    site: https://sfxy.hubu.edu.cn/info/1113/1280.htm
+  - name: Matheus Barbosa
+    photo: matheus-barbosa.jpg
+    info: Software Engineer, Microsoft
+    site: https://www.linkedin.com/in/matbarbosa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+  - name: James Wei
+  - name: Malik (Joshua) Richardson
+
+  - name: Lily Lou
+
+- year: 2018
+  people:
+  - name: Pat Healy
+    photo: pat-healy.jpg
+    info: PhD. in Information Science Student, University of Pittsburgh
+    site: https://patwhealy.com/
+
+  - name: Pooja Casula
+  - name: Sung Hyun (Daniel) Back
+  - name: Yijun Qian

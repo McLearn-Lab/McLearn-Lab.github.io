@@ -217,9 +217,6 @@ permalink: /team/
   <i>{{ member.info }}</i><br>
   <p>Role with Lab: {{ member.role_with_lab }}</p>
   
-  <ul style="overflow: hidden">
-
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -234,6 +231,47 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+## Former <a href="https://new.nsf.gov/funding/opportunities/research-experiences-undergraduates-reu">REU Program</a> Interns
+{% for year in site.data.former_interns %}
+
+
+<h3>{{ year.year }}</h3>
+
+{% assign number_printed = 0 %}
+{% for intern in year.people %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 0 %}
+<div class="row">
+
+{% endif %}
+<div class="col-sm-6 clearfix">
+  {% if intern.photo  %}<img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ intern.photo }}" class="img-responsive" width="25%" style="float: left" />{% endif %}
+  {% if intern.site %}
+  <h4><a href="{{ intern.site }}">{{ intern.name }}</a></h4>
+  {% else %}
+  <h4>{{ intern.name }}</h4>
+  {% endif %}
+  {% if intern.info %}
+  <em>{{ intern.info }}</em>
+  {% endif %}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+{% endfor %}
+
 
 ## Former Visitors
 <div class="row">

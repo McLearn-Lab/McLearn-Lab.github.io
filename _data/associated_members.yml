@@ -18,12 +18,12 @@
 
 - name: Esma Kahveci
   photo: esma-kahveci.jpg
-  info: PhD Candidate, Distinguished Research Fellow at UMass Dartmouth, started 2021
+  info: PhD. Candidate, Distinguished Research Fellow at UMass Dartmouth, started 2021
   email: 
   number_educ: 3
-  education1: MS, STEM Education & Teacher Development, University of Massachusetts, Dartmouth
-  education2: MA, Education Technology, Eötvös Lorand University, Hungary
-  education3: BA, Elementary Mathematics Teaching, Traya University, Turkey
+  education1: M.S. in STEM Education & Teacher Development, University of Massachusetts, Dartmouth
+  education2: M.A. in Education Technology, Eötvös Lorand University, Hungary
+  education3: B.A. in Elementary Mathematics Teaching, Traya University, Turkey
 
 
 - name: Alessandro Pagano
@@ -31,7 +31,7 @@
   info: Assistant Professor, Computer Science at University of Bari, Italy
   site: https://alessandropagano.net/#home
   number_educ: 2
-  education1: PhD in Computer Science, 2012
+  education1: PhD. in Computer Science, 2012
   education2: Master's in Economics, 2008
 
 - name: Xiaolin Ni
