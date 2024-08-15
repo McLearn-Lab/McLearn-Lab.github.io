@@ -34,6 +34,51 @@
   #   link_url: 
   #   pdf: 
 
+# =========================================================== Racial and Gender Equity ==========================================================
+- title: Race and Gender
+  description: How learning games can impact and support equity.
+  image: four-games.jpg
+
+  site_link: 
+  site_title: 
+
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201796&HistoricalAwards=false
+    title: 'National Science Foundation: EHR Core Research, Award No: 2201796'
+
+  publications: 
+
+  - title: 'Investigating racial and ethnic differences in learning with a digital game and tutor for decimal numbers.'
+    authors: Ni, X., Nguyen, H.A., Else-Quest, N., Pagano, A., & McLaren, B.M.
+    year: 2024
+    image: dp-versions.jpg
+    description: 
+    notes: 
+    link_display: To be presented at the Nineteenth European Conference on Technology Enhanced Learning (ECTEL 2024). Krems, Austria, September 16-20, 2024
+    link_url:
+    pdf: 
+
+  - title: 'Digital learning games in Artificial Intelligence in Education (AIED): A review.'
+    authors: McLaren, B.M. & Nguyen, H.A.
+    year: 2023
+    image: decimal-point-2.jpg
+    description: 'While it is clear that game design and attention to what we know about how humans learn has been beneficial to the design and success of digital learning games, what about the use of artificial intelligence (AI) in the design and development of digital learning games?'
+    notes:
+    link_display: In B. du Boulay, A. Mitrovic, & K. Yacef (Eds.), Handbook of Artificial Intelligence in Education. Chapter 20.
+    link_url: https://doi.org/10.4337/9781800375413.00032
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenNguyen-LearningWithAIEDDigitalLearningGames-AIEDHandbook2022.pdf
+  
+  - title: 'The impact of gender in learning with games: A consistent effect in a math learning game.'
+    authors: Nguyen, H., Hou, X., Richey, J.E., & McLaren, B.M.
+    year: 2022
+    image: se-error-rate.jpg
+    description: There is an established gender gap in middle school math education, where female students report higher anxiety and lower engagement, which negatively impact their performance and even longterm career choices. This work investigates the role of digital learning games in addressing this issue by studying Decimal Point.
+    notes: 
+    link_display: International Journal of Game-Based Learning (IJGBL).  12(1), 1-29.
+    link_url: https://www.igi-global.com/article/the-impact-of-gender-in-learning-with-games/309128
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/NguyenEtAl-GenderEffectsInDecimalPoint-IJGBL2022.pdf
+
+
 # ======================================================= Decimal Point =====================================================================
 - title: Decimal Point
   description: Exploring how educational games can help middle school students learn decimals.
@@ -163,7 +208,7 @@
 
 # ======================================================== Ocean Adventure ================================================================
 - title: Ocean Adventure
-  description: Investigating the role of a survey-based gender-oriented narrative on the gender effect in digital learning games.
+  description: Investigating whether a masculine game narrative has an impact on learning with a digital game.
   image: ocean-adventure.jpg
   
   grants:
@@ -245,10 +290,12 @@
 
 # ======================================================== Stoich Tutor =================================================================
 - title: Stoichiometry Tutor
-  description: Studying the effect of personalization and worked examples in the solving of stoichiometry problems.
+  description: Using neurophysiological measures to better understand learning with an intelligent tutor.
   image: stoich-tutor.jpg
 
   grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141139&HistoricalAwards=false
+    title: 'National Science Foundation, Award No: 2141139'
   - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=0354420
     title: 'National Science Foundation, Award No: 0354420'
   
@@ -296,6 +343,31 @@
     link_url: 
     pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenEtAl-WhenAndHowOften-CogSci2008.pdf
 
+
+# =================================================== Elasticity Tutor ============================================================ 
+- title: Elasticity Tutor
+  description: Exploring the efficacy of AI-augmented learning technologies for community college information technology courses.
+  image: elasticity-tutor.jpg
+
+  site_link:
+  site_title:
+
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222762&HistoricalAwards=false
+    title: 'National Science Foundation, Future of Work, Award No: 2222762'
+  
+  publications:
+  - title: 'Community college information technology education: Curriculum mapping, a learning science framework, and AI learning technologies. '
+    authors: McLaren, B.M., Herckis, L., Teffera, L., Branstetter, L., Rose, C.P., Sakr, M., Kisow, M., Reis, R., Rinsem, M., Alenius, M., & Miller, L.
+    year: 2024
+    image: kc-tracing.jpg
+    description: 'Most jobs in the digital economy require 4-year university degrees, excluding many community college students. To help these students join the digital economy, our project team is developing AI-based learning technology using a novel approach. This analysis is guiding us in developing intelligent tutors and collaborative learning technology, empirically-tested forms of AI-based learning technology, to support IT students. In this paper, we describe our innovative approach and results thus far.'
+    notes: 
+    link_display: Paper presented at AERA 2024, the 2024 Annual Meeting of American Educational Research Association (AERA). Philadelphia, PA, April 11-14, 2024.
+    link_url: 
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenEtAl-ALearningScience%20FrameworkCurriculumMappinAndAITechnologies-AERA2024.pdf
+
+
 # ======================================================== Genetics Tutor ================================================================
 - title: Genetics Tutor
   description: Investigating nuances in Knowledge Tracing and Cognitive Modeling using a collegiate-level genetics intelligent tutoring system.
@@ -338,32 +410,5 @@
     link_display:  Proceedings of the 13th International Conference on Intelligent Tutoring Systems (ITS 2016).  LNCS 9684 (pp. 133-143).
     link_url: 
     pdf: https://www.cs.cmu.edu/~bmclaren/pubs/EagleEtAl-EstimatingIndividualDifferencesForStudent%20ModelingReadingAndPretestData-ITS2016.pdf
-
-# =================================================== Elasticity Tutor ============================================================ 
-- title: Elasticity Tutor
-  description: Exploring the efficacy of AI-augmented learning technologies for community college information technology courses.
-  image: elasticity-tutor.jpg
-
-  site_link:
-  site_title:
-
-  grants:
-  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222762&HistoricalAwards=false
-    title: 'National Science Foundation, Future of Work, Award No: 2222762'
-  
-  publications:
-  - title: 'Community college information technology education: Curriculum mapping, a learning science framework, and AI learning technologies. '
-    authors: McLaren, B.M., Herckis, L., Teffera, L., Branstetter, L., Rose, C.P., Sakr, M., Kisow, M., Reis, R., Rinsem, M., Alenius, M., & Miller, L.
-    year: 2024
-    image: kc-tracing.jpg
-    description: 'Most jobs in the digital economy require 4-year university degrees, excluding many community college students. To help these students join the digital economy, our project team is developing AI-based learning technology using a novel approach. This analysis is guiding us in developing intelligent tutors and collaborative learning technology, empirically-tested forms of AI-based learning technology, to support IT students. In this paper, we describe our innovative approach and results thus far.'
-    notes: 
-    link_display: Paper presented at AERA 2024, the 2024 Annual Meeting of American Educational Research Association (AERA). Philadelphia, PA, April 11-14, 2024.
-    link_url: 
-    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenEtAl-ALearningScience%20FrameworkCurriculumMappinAndAITechnologies-AERA2024.pdf
-
-
-
-
 
 

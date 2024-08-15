@@ -5,7 +5,8 @@ excerpt: "McLearn Lab CMU"
 sitemap: false
 permalink: /
 ---
-<h4>We are a research group at Carnegie Mellon University that studies learning sciences, educational technology, digital learning games, intelligent tutoring systems, collaborative learning, and e-learning principles.</h4>
+<h4>We are a research group at Carnegie Mellon University, led by <a href="https://www.cs.cmu.edu/~bmclaren">Professor Bruce M. McLaren</a>, that studies learning sciences, educational technology, digital learning games, intelligent tutoring systems, collaborative learning, and e-learning principles.
+</h4>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
