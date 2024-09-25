@@ -3,6 +3,13 @@
 #   link:
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
+
+- date: September 2024
+  headline: Dr. McLaren co-chaired the doctoral consortium and presented a paper at the ECTEL 2024 conference in Austria. 
+  link: https://www.cs.cmu.edu/~bmclaren/pubs/NiEtAl-DecimalPointRaceEthnicityAnalysis-ECTEL2024.pdf
+  link_text: '[ pdf ]'
+  frontpage: 1
+
 - date: Soon to be published!
   headline: 'McLaren, B.M. (in press). Decimal Point: A decade of learning science findings with a digital learning game. To appear in P. Ilic, R. Wegerif, & I. Casebourne (Eds.), Artificial Intelligence in Education: The Intersection of Technology and Pedagogy.  Springer Verlag Germany.'
   link: http://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
@@ -20,7 +27,7 @@
   frontpage: 1
 
 - date: May, 2024
-  headline: Dr. McLaren is interviewed on "The Mindfulness Podcast with Dr. David black"
+  headline: Dr. McLaren is interviewed on "The Mindfulness Podcast with Dr. David Black"
   link: https://goamra.org/page-18106
   link_text: '[ Link Here ]'
   frontpage: 0
@@ -37,7 +44,7 @@
 
 - date: January, 2024
   headline: Dr. Huy Nguyễn, McLearn Lab member, successfully defended his thesis!
-  frontpage: 1
+  frontpage: 0
 
 - date: September, 2023
   headline: Lab paper, first authored by Huy Nguyễn, wins the Best Paper Award at the Eighteenth Annual European Conference on Technology Enhanced Learning (ECTEL 2023).

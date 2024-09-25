@@ -52,11 +52,11 @@
     authors: Ni, X., Nguyen, H.A., Else-Quest, N., Pagano, A., & McLaren, B.M.
     year: 2024
     image: dp-versions.jpg
-    description: 
+    description: This study investigates the effects on different racial/ethnic groups of middle school students when learning with a digital learning game, Decimal Point, and a comparable computer tutor. Using data from three classroom studies with 835 students, we compared learning outcomes and engagement among students from racial/ethnic groups that are well-represented in STEM (white and Asian) to those that are underrepresented in STEM (Black, Hispanic/Latine, Indigenous, and multiracial).
     notes: 
-    link_display: To be presented at the Nineteenth European Conference on Technology Enhanced Learning (ECTEL 2024). Krems, Austria, September 16-20, 2024
-    link_url:
-    pdf: 
+    link_display: Presented at the Nineteenth European Conference on Technology Enhanced Learning (ECTEL 2024). Krems, Austria, September 16-20, 2024
+    link_url: https://link.springer.com/chapter/10.1007/978-3-031-72315-5_23
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/NiEtAl-DecimalPointRaceEthnicityAnalysis-ECTEL2024.pdf
 
   - title: 'Digital learning games in Artificial Intelligence in Education (AIED): A review.'
     authors: McLaren, B.M. & Nguyen, H.A.
