@@ -290,4 +290,4 @@ permalink: /team/
 </div>
 
 ## Administrative Support
-<a href = "https://hcii.cmu.edu/people/reenie-kirby">Reenie Kirby</a> serves as Administrative Assistant for us and other labs within HCII at CMU.
+<a href = "https://hcii.cmu.edu/people/meagan-bulisco">Meagan Bulisco</a> serves as Administrative Assistant for us and other labs within HCII at CMU.
