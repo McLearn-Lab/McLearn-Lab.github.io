@@ -1,0 +1,342 @@
+---
+---
+    
+@import "bootstrap";
+
+img { margin-bottom: 24px; 
+     margin-top: 17px; 
+    border-radius:2%;
+}
+
+.navbar-brand img {
+	max-height: 80px;
+	width: auto;
+	margin-top: -10px;
+}
+
+.navbar a{
+	font-size: 25px;
+
+
+}
+@media (min-width: 768px){
+	.navbar a{
+		top: 15px;
+		font-size: 30px;
+	}
+}
+
+/* Custom CSS to make the navbar taller */
+.navbar {
+	min-height: 80px; /* Adjust the height as needed */
+}
+
+.collapsing,
+.collapse.in{
+	position: relative;
+	top: 30px;
+}
+.navbar-header button{
+
+	top: 15px;
+}
+.navbar-collapse{
+	height: 200px;
+	overflow-y: auto;
+}
+// .navbar-brand, .navbar-nav .nav-link {
+// 	line-height: 60px; /* Adjust to vertically center the content */
+// }
+
+// body {
+// 	padding-top: 70px;
+// }
+
+figcaption {
+    text-align: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+
+
+/* Top navigation bar */
+
+
+p.byline {
+	text-align: center;
+	font-size: 18px;
+	line-height: 36px;
+	margin-top: -24px;
+	margin-bottom: 48px;
+}
+
+
+pubtit {
+	font-weight: bold;
+	display: inline;
+}
+
+firstp {
+}
+
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px; /* or 950px */
+}
+
+/* Home, News */
+#newsid p {
+	text-align: left;
+}
+
+#homeidtmp h1 {
+	text-align: center;
+}
+
+#newsid img {
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+/* Team & Publications */
+#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
+#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
+#gridid .row { margin-bottom: 24px; }
+
+
+/* Grid overrides */
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
+.col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+/* Grid overrides */
+.col-sm-4 {
+	padding-left: 26px;
+	padding-right: 26px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~CAROUSEL ~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.carousel {
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.carousel-item {
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	position: relative;
+}
+
+@media (max-width: 576px){
+	.carousel-item{
+		height: 300px;
+	}
+}
+
+@media (max-width: 400px){
+	.carousel-item{
+		height: 250px;
+	}
+}
+
+.carousel-caption {
+	background: rgba(255, 255, 255, 0.7);
+	padding: 10px;
+	border-radius: 5px;
+	position: absolute;
+	bottom: 0px; /* Adjust as needed */
+	left: 50%;
+	transform: translateX(-50%);
+	width: 90%;
+	text-align: center;
+	color: black;
+}
+
+.carousel-control-next-icon {
+	background-color: black;
+	background-image: none; /* Remove the default icon */
+  }
+  
+  .carousel-control-prev-icon::after,
+  .carousel-control-next-icon::after {
+	content: '';
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+  }
+  
+  .carousel-control-prev-icon::after {
+	background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" fill="%23fff" viewBox="0 0 8 8"%3E%3Cpath d="M4.5 0L0 4l4.5 4 1-1L2 4l3.5-3L4.5 0z"/%3E%3C/svg%3E');
+  }
+  
+  .carousel-control-next-icon::after {
+	background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" fill="%23fff" viewBox="0 0 8 8"%3E%3Cpath d="M3.5 0L8 4 3.5 8 2.5 7 6 4 2.5 1 3.5 0z"/%3E%3C/svg%3E');
+  }
+  
+
+.carousel-indicators{
+	bottom: -10px;
+}
+.carousel-indicators li {
+	background-color: black;
+}
+
+.carousel-indicators li.active {
+	background-color: gray;
+}
+
+.glyphicon-chevron-right,
+.glyphicon-chevron-left{
+	color: black;
+}
+
+/*============================================== PROJECT PAGE ================================ */
+
+@media (min-width: 00px){
+	.project-img-sm{
+		max-height: 80px;
+	}
+}
+
+@media (min-width: 280px){
+	.project-img-sm{
+		max-height: 120px;
+	}
+}
+
+@media (min-width: 340px){
+	.project-img-sm{
+		max-height: 160px;
+	}
+}
+
+@media (min-width: 380px){
+	.project-img-sm{
+		max-height: 180px;
+	}
+}
+
+@media (min-width: 576px){
+	.project-img-sm{
+		max-height: 250px;
+	}
+}
+@media (max-width: 767px){
+	.project-img-lg{
+		display: none;
+	}
+}
+@media (min-width: 768px){
+	.project-img-lg{
+		max-height: 200px;
+	}
+	.project-img-sm{
+		display: none;
+	}
+}
+
+@media (min-width: 840px){
+	.project-img-lg{
+		max-height: 225px;
+	}
+}
+
+@media (min-width: 992px){
+	.project-img-lg{
+		max-height: 250px;
+	
+	}
+}
+
+/* ================================= contact form =================================== */
+
+//make sure it fits
+@media (max-width: 600px){
+	iframe{
+		width: 500px;
+	}
+}
+
+@media (max-width: 500px){
+	iframe{
+		width: 400px;
+	}
+}
+
+@media (max-width: 400px){
+	iframe{
+		width: 300px;
+	}
+}
+
+//center it 
+iframe{
+	display: block;
+	margin: auto;
+}
+
+
+/* ========================================== publications dropdown ========================== */
+.triangle {
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	// margin-right: 5px;
+}
+
+@media (min-width: 480px){
+	.triangle-right {
+		border-width: 10px 0 10px 10px;
+		border-color: transparent transparent transparent #007bff;
+	}
+	.triangle-down {
+		border-width: 10px 10px 0 10px;
+		border-color: #007bff transparent transparent transparent;
+	}
+}
+@media (max-width: 479px){
+	.triangle-right {
+		border-width: 8px 0 8px 8px;
+		border-color: transparent transparent transparent #007bff;
+	}
+	.triangle-down {
+		border-width: 8px 8px 0 8px;
+		border-color: #007bff transparent transparent transparent;
+	}
+}
+
+
+
+.pubs-toggler[aria-expanded="true"] .triangle-right {
+	display: none;
+}
+
+.pubs-toggler[aria-expanded="false"] .triangle-down {
+	display: none;
+}
+@media (max-width: 479px){
+	.pubs-toggler{
+		font-size: 20px;
+	}
+}
+@media (min-width: 480px){
+	a.pubs-toggler {
+		font-size: 25px;
+	}
+}

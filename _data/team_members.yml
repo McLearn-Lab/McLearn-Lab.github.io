@@ -1,0 +1,77 @@
+#- name:
+#  photo: 
+#  info:
+#  site:
+#  number_educ: N
+#  education1:
+#  education2:
+#  education3:
+#  educationN:
+
+- name: Bruce McLaren (PI)
+  photo: bruce-mclaren.jpg
+  info: Head of the McLearn Lab, Faculty at CMU since 2003
+  site: https://cs.cmu.edu/~bmclaren
+  number_educ: 4
+  education1: PhD. in Intelligent Systems, University of Pittsburgh
+  education2: M.S. in Intelligent Systems, University of Pittsburgh
+  education3: M.S. in Computer Science, University of Pittsburgh
+  education4: B.S. in Computer Science, Millersville University 
+
+- name: Mahboobeh Mehrvarz
+  photo: mahboobeh-mehrvarz.jpg
+  info: Postdoctoral Researcher, started 2023
+  site: https://scholar.google.com/citations?user=C3Gg9cwAAAAJ&hl=en
+  number_educ: 4
+  education1: (In progress) Postdoctoral Fellow , Carnegie Mellon University
+  education2: PhD. in Educational Administration, Shiraz University
+  education3: Master's in Educational Technology, Allameh Tabataba'i University
+  education4: Bachelor's in Educational Technology, Allameh Tabataba'i University
+
+
+- name: Leah Teffera
+  photo: leah-teffera.jpg
+  info: Research Programmer, started 2022
+  site: https://www.linkedin.com/in/lteffera/
+  number_educ: 2
+  education1: (In progress) Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+  education2: B.A. in Computer Science, Wellesley College
+
+
+- name: Hayden Stec
+  photo: hayden-stec.jpg
+  info: Research Programmer, started 2022
+  site: https://www.linkedin.com/in/hayden-stec/
+  number_educ: 3
+  education1: (In progress) Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+  education2: B.S. in Computer Science, University of Pittsburgh
+  education3: B.A. in Politics-Philosophy, University of Pittsburgh
+
+
+- name: Aditi Haiman
+  photo: aditi-haiman.jpg
+  info: PhD. student, started 2024
+  site: 
+  number_educ: 1
+  education1: B.A. in Computer Science, Barnard College
+
+
+- name: Daniel Pollock
+  photo: daniel-pollock.jpg
+  info: Digital Learning Game Programmer, started 2023
+  site: https://www.linkedin.com/in/daniel-pollock-117895207/
+  number_educ: 1
+  education1: B.S. in Applied Developmental Psychology, University of Pittsburgh
+
+- name: Autumn Qiu
+  photo: autumn-qiu.jpg
+  info: Digital Learning Game Programmer Intern, started 2024
+  site: https://www.linkedin.com/in/autumn-qiu/
+  number_educ: 1
+  education1: (In progress) B.S. in Information Systems, Carnegie Mellon University
+
+- name: "Interested in working with our lab?"
+  photo: rock.jpg
+  info: Visit our <a href="http://www.cs.cmu.edu/~bmclaren/mclearnlab/contact">contact page!</a>
+  email: 
+  number_educ: 0

@@ -1,0 +1,414 @@
+# - title: of project
+#   description: brief description of project
+#   image: picture to highlight project
+
+#   site_link: if the project has its own site (such as decimal point or adapterrex, link here)
+#   site_title: display for the link if project site exists (for example, "click here to see decimal point site")
+
+
+#   grants:
+  # - link: link to grant
+  #   title: title of grant (user clicks this message to go to link)
+
+  # - link:
+  #   title:
+
+
+#   publications:
+  # - title (without authors and year)
+  #   authors: 
+  #   year: 
+  #   image: (file name relative to images/publications/ (use a square image))
+  #   description: (summary, abstract etc)
+  #   notes: (whatever, for example "won the best paper award!")
+  #   link_display: (what the link should say)
+  #   link_url: (where the link routes to)
+  #   
+  # - title:
+  #   authors: 
+  #   year: 
+  #   image: 
+  #   description: 
+  #   notes: 
+  #   link_display: 
+  #   link_url: 
+  #   pdf: 
+
+# =========================================================== Racial and Gender Equity ==========================================================
+- title: Race and Gender
+  description: How learning games can impact and support equity.
+  image: four-games.jpg
+
+  site_link: 
+  site_title: 
+
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201796&HistoricalAwards=false
+    title: 'National Science Foundation: EHR Core Research, Award No: 2201796'
+
+  publications: 
+
+  - title: 'Investigating racial and ethnic differences in learning with a digital game and tutor for decimal numbers.'
+    authors: Ni, X., Nguyen, H.A., Else-Quest, N., Pagano, A., & McLaren, B.M.
+    year: 2024
+    image: dp-versions.jpg
+    description: This study investigates the effects on different racial/ethnic groups of middle school students when learning with a digital learning game, Decimal Point, and a comparable computer tutor. Using data from three classroom studies with 835 students, we compared learning outcomes and engagement among students from racial/ethnic groups that are well-represented in STEM (white and Asian) to those that are underrepresented in STEM (Black, Hispanic/Latine, Indigenous, and multiracial).
+    notes: 
+    link_display: Presented at the Nineteenth European Conference on Technology Enhanced Learning (ECTEL 2024). Krems, Austria, September 16-20, 2024
+    link_url: https://link.springer.com/chapter/10.1007/978-3-031-72315-5_23
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/NiEtAl-DecimalPointRaceEthnicityAnalysis-ECTEL2024.pdf
+
+  - title: 'Digital learning games in Artificial Intelligence in Education (AIED): A review.'
+    authors: McLaren, B.M. & Nguyen, H.A.
+    year: 2023
+    image: decimal-point-2.jpg
+    description: 'While it is clear that game design and attention to what we know about how humans learn has been beneficial to the design and success of digital learning games, what about the use of artificial intelligence (AI) in the design and development of digital learning games?'
+    notes:
+    link_display: In B. du Boulay, A. Mitrovic, & K. Yacef (Eds.), Handbook of Artificial Intelligence in Education. Chapter 20.
+    link_url: https://doi.org/10.4337/9781800375413.00032
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenNguyen-LearningWithAIEDDigitalLearningGames-AIEDHandbook2022.pdf
+  
+  - title: 'The impact of gender in learning with games: A consistent effect in a math learning game.'
+    authors: Nguyen, H., Hou, X., Richey, J.E., & McLaren, B.M.
+    year: 2022
+    image: se-error-rate.jpg
+    description: There is an established gender gap in middle school math education, where female students report higher anxiety and lower engagement, which negatively impact their performance and even longterm career choices. This work investigates the role of digital learning games in addressing this issue by studying Decimal Point.
+    notes: 
+    link_display: International Journal of Game-Based Learning (IJGBL).  12(1), 1-29.
+    link_url: https://www.igi-global.com/article/the-impact-of-gender-in-learning-with-games/309128
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/NguyenEtAl-GenderEffectsInDecimalPoint-IJGBL2022.pdf
+
+
+# ======================================================= Decimal Point =====================================================================
+- title: Decimal Point
+  description: Exploring how educational games can help middle school students learn decimals.
+  image: decimal-point.jpg
+  
+  site_link: https://www.cs.cmu.edu/~bmclaren/projects/DecimalPoint/index.html
+  site_title: Visit the Decimal Point project website!
+
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201796&HistoricalAwards=false
+    title: 'National Science Foundation: EHR Core Research, Award No: 2201796'
+
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1238619
+    title: 'National Science Foundation, Division of Research on Learning, Award No: 1238619'
+
+  - link: 
+    title: Simon Initiative Grant (Internal CMU)  
+
+
+  publications: 
+
+  - title: '_Decimal Point:_ A decade of learning science findings with a digital learning game.'
+    authors: McLaren, B.M.
+    year: 2024
+    image: decimal-point-1.jpg
+    description: The McLearn Lab at Carnegie Mellon University (CMU) first designed and developed the artificial intelligence (AI) in education learning game, Decimal Point, in 2013 and 2014 to support middle school children learning decimals and decimal operations. Over a period of 10 years, the McLearn Lab has run a series of classroom experiments with the game, involving over 1,500 elementary and middle school students.
+    notes: 
+    link_display: 'In P. Ilic, R. Wegerif, & I. Casebourne (Eds.), _Artificial Intelligence in Education: The Intersection of Technology and Pedagogy._  Springer Verlag Germany.  Part of the "Artificial Intelligence-Enhanced Software and Systems Engineering" (AI-SSE) Series.'
+    link_url: https://www.springer.com/series/16891
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
+
+  - title: 'Digital learning games in Artificial Intelligence in Education (AIED): A review.'
+    authors: McLaren, B.M. & Nguyen, H.A.
+    year: 2023
+    image: decimal-point-2.jpg
+    description: 'While it is clear that game design and attention to what we know about how humans learn has been beneficial to the design and success of digital learning games, what about the use of artificial intelligence (AI) in the design and development of digital learning games?'
+    notes:
+    link_display: In B. du Boulay, A. Mitrovic, & K. Yacef (Eds.), Handbook of Artificial Intelligence in Education. Chapter 20.
+    link_url: https://doi.org/10.4337/9781800375413.00032
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenNguyen-LearningWithAIEDDigitalLearningGames-AIEDHandbook2022.pdf
+  
+  - title: Evaluating ChatGPT’s decimal skills and feedback generation to students’ self-explanations in a digital learning game. 
+    authors: Nguyen, H., Stec, H., Hou, X., Di, S., & McLaren, B.M
+    year: 2023
+    image: chatgpt-self-explanation.jpg
+    description: 'Using decimal exercises and student data from a prior study of the learning game Decimal Point, with more than 5,000 open-ended self-explanation responses, we investigate ChatGPT’s capability in (1) solving the in-game exercises, (2) determining the correctness of students’ answers, and (3) providing meaningful feedback to incorrect answers.'
+    notes: Won the Best Paper Award!
+    link_display: Proceedings of Eighteenth European Conference on Technology Enhanced Learning (ECTEL 2023). pp 278–293
+    link_url: https://doi.org/10.48550/arXiv.2306.16639
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/NguyenEtAl-LearningGameChatGPTSelfExplanation-ECTEL2023.pdf
+
+  - title: 'The impact of gender in learning with games: A consistent effect in a math learning game.'
+    authors: Nguyen, H., Hou, X., Richey, J.E., & McLaren, B.M.
+    year: 2022
+    image: alien-friends.jpg
+    description: 'There is an established gender gap in middle school math education, where female students report higher anxiety and lower engagement, which negatively impact their performance and even longterm career choices. This work investigates the role of digital learning games in addressing this issue by studying Decimal Point, a math game that teaches decimal numbers and operations to 5th and 6th graders.'
+    notes: 
+    link_display: International Journal of Game-Based Learning (IJGBL).  12(1), 1-29.
+    link_url: http://doi.org/10.4018/IJGBL.309128
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/NguyenEtAl-GenderEffectsInDecimalPoint-IJGBL2022.pdf
+  
+  - title: 'How instructional context can impact learning with educational technology: Lessons from a study with a digital learning game.'
+    authors: McLaren, B.M., Richey, J.E.,  Nguyen, H.,  & Hou, X.
+    year: 2022
+    image: decimal-point-hint.jpg
+    description: 'The COVID-19 pandemic provided an unexpected opportunity to explore instructional context. Intending to explore how providing hints and feedback within a digital learning game (Decimal Point) impacts mathematics learning, we instead found ourselves exploring a new question: How did learning with the game differ between classrooms and at home?'
+    notes: 
+    link_display: Computers & Education, 178.
+    link_url: https://doi.org/10.1016/j.compedu.2021.104366
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenEtAl-HowInstructionalContextImpactsLearningWithAGame-Comp&Ed2022.pdf
+
+  - title: Exploring the subtleties of agency and indirect control in digital learning games.
+    authors: Harpstead, E., Richey, J.E., Nguyen, H., & McLaren, B.M.
+    year: 2019
+    image: map-no-path.jpg
+    description: 'How do the features of a learning environment’s user interface impact learners’ agency and, further, their learning? We conducted a classroom study using a new version of Decimal Point that varied whether students saw a visual path connecting mini-games on the game map to modulate the level of indirect control students would experience with an implied ordering.'
+    notes: One of five papers nominated for the Best Paper Award!
+    link_display: Proceedings of the 9th International Conference on Learning Analytics & Knowledge (LAK'19). (pp. 121-129). ACM
+    link_url: https://doi.org/10.1145/3303772.3303797
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/HarpsteadEtAl-DecimalPointAgencyStudy-LAK2019.pdf
+
+  - title: A computer-based game that promotes mathematics learning more than a conventional approach.
+    authors: McLaren, B.M., Adams, D.M., Mayer, R.E., & Forlizzi, J.
+    year: 2017
+    image: decimal-point-balloon-level.jpg
+    description: 'Excitement about learning from computer-based games has been palpable in recent years and has led to the development of many educational games. The empirical study reported in this paper provides evidence that a mathematics educational game can provide superior learning opportunities, as well as be more engaging.'
+    notes: 
+    link_display:  International Journal of Game-Based Learning (IJGBL), 7(1), 36-56.
+    link_url: https://psycnet.apa.org/record/2017-35493-002
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenEtAl-ComputerBasedGameThatPromotesMathLearningMoreThanAConventionalApproach-IJGBL2017.pdf
+
+
+
+# =================================================== Angle Jungle ==================================================================
+- title: Angle Jungle
+  description: Investigating the role of self-explanation on the gender effect in digital learning games.
+  image: angle-jungle.jpg
+  
+  site_link:
+  site_title:
+
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201796&HistoricalAwards=false
+    title: 'National Science Foundation: EHR Core Research, Award No: 2201796'
+  
+  
+  publications: 
+  - title: '_Decimal Point:_ A decade of learning science findings with a digital learning game.'
+    authors: McLaren, B.M.
+    year: 2024
+    image: decimal-point-1.jpg
+    description: The McLearn Lab at Carnegie Mellon University (CMU) first designed and developed the artificial intelligence (AI) in education learning game, Decimal Point, in 2013 and 2014 to support middle school children learning decimals and decimal operations. Over a period of 10 years, the McLearn Lab has run a series of classroom experiments with the game, involving over 1,500 elementary and middle school students.
+    notes: 
+    link_display: 'In P. Ilic, R. Wegerif, & I. Casebourne (Eds.), _Artificial Intelligence in Education: The Intersection of Technology and Pedagogy._  Springer Verlag Germany.  Part of the "Artificial Intelligence-Enhanced Software and Systems Engineering" (AI-SSE) Series.'
+    link_url: https://www.springer.com/series/16891
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
+
+  - title: 'Angle Jungle: An educational game about angles.'
+    authors: Khan, J., Wang, J., Wang, X., Zhang, Y., Hammer, J., Stevens, S., & Washington, R.
+    year: 2017
+    image: angle-jungle.jpg
+    description: 'Angle Jungle is an iPad game designed as an  educational supplement for fourth to sixth grade students learning about angles. The game asks players to solve puzzles using angles, and incorporates research in numeric-spatial learning, scaffolding tools, and puzzle design to reinforce the intended experience. '
+    notes: 
+    link_display: In Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play (pp. 633-638).
+    link_url: https://dl.acm.org/doi/10.1145/3130859.3130867
+    pdf: 
+
+# ======================================================== Ocean Adventure ================================================================
+- title: Ocean Adventure
+  description: Investigating whether a masculine game narrative has an impact on learning with a digital game.
+  image: ocean-adventure.jpg
+  
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201796&HistoricalAwards=false
+    title: 'National Science Foundation: EHR Core Research, Award No: 2201796'
+  
+  site_link:
+  site_title:
+  
+  publications: 
+  - title: '_Decimal Point:_ A decade of learning science findings with a digital learning game.'
+    authors: McLaren, B.M.
+    year: 2024
+    image: decimal-point-1.jpg
+    description: The McLearn Lab at Carnegie Mellon University (CMU) first designed and developed the artificial intelligence (AI) in education learning game, Decimal Point, in 2013 and 2014 to support middle school children learning decimals and decimal operations. Over a period of 10 years, the McLearn Lab has run a series of classroom experiments with the game, involving over 1,500 elementary and middle school students.
+    notes: 
+    link_display: 'In P. Ilic, R. Wegerif, & I. Casebourne (Eds.), _Artificial Intelligence in Education: The Intersection of Technology and Pedagogy._  Springer Verlag Germany.  Part of the "Artificial Intelligence-Enhanced Software and Systems Engineering" (AI-SSE) Series.'
+    link_url: https://www.springer.com/series/16891
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
+
+
+# ===================================================== AdaptErrEx ==============================================================
+- title: AdaptErrEx
+  description: Exploring the learning benefits of erroneous examples within the context of middle school mathematics.
+  image: adapterrex.jpg
+  
+  site_link: https://www.cs.cmu.edu/~bmclaren/projects/AdaptErrEx/index.html
+  site_title: Visit the AdaptErrEx project website!
+
+
+  grants:
+  - link: https://ies.ed.gov/funding/grantsearch/details.asp?ID=817
+    title: 'US Department of Education (IES), Award No: R305A090460'
+  
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=0354420
+    title: 'National Science Foundation, Award No: 0354420'
+  
+  
+  publications: 
+  - title: 'Confrustion in learning from erroneous examples: Does type of prompted self-explanation make a difference?'
+    authors: Richey, J.E., McLaren, B.M.,  Andres-Bray, J.M.L., Mogessie, M., Scruggs, R., Baker, R.S. & Star, J.R.
+    year: 2019
+    image: erroneous-example-1.jpg
+    description: 'Prior research has shown that studying erroneous examples can increase students’ experiences of confrustion (a mix of confusion and frustration). In the study reported in this paper, we examined students’ knowledge and misconceptions about decimal numbers before and after they interacted with an intelligent tutoring system presenting either erroneous examples targeting misconceptions (erroneous example condition) or practice problems targeting the same misconceptions (problem-solving condition). '
+    notes: 
+    link_display: 'In: Isotani S., Millán E., Ogan A., Hastings P., McLaren B., Luckin R. (eds). Proceedings of the 20th International Conference on Artificial Intelligence in Education (AIED 2019). LNAI 11625 (pp. 445-457).'
+    link_url: https://link.springer.com/chapter/10.1007/978-3-030-23204-7_37
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/RicheyEtAl-ConfrustionErroneousExample-AIED2019.pdf
+
+  - title: 'Delayed learning effects with erroneous examples:  A study of learning decimals with a web-based tutor.'
+    authors: McLaren, B. M.,  Adams, D. M.,  &  Mayer, R.E.
+    year: 2015
+    image: steps-comparison.jpg
+    description: 'Erroneous examples – step-by-step problem solutions with one or more errors for students to find and fix – hold great potential to help students learn. In this study, which is a replication of a prior study (Adams et al. 2014), but with a much larger population (390 vs. 208), middle school students learned about decimals either by working with interactive, web-based erroneous examples or with more traditional supported problems to solve. Although the two groups did not differ on an immediate post-test, the erroneous examples group performed significantly better on a delayed test.'
+    notes: 
+    link_display:  International Journal of Artificial Intelligence in Education, 25(4), 520-542.
+    link_url: https://link.springer.com/article/10.1007/s40593-015-0064-x
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenAdamsMayer-DelayedLearningWithErrEx-IJAIED2015.pdf
+
+  - title: 'To err is human, to explain and correct is divine: A study of interactive erroneous examples with middle school math students.'
+    authors: McLaren, B.M.,  Adams, D.,  Durkin, K., Goguadze, G. Mayer, R.E., Rittle-Johnson, B., Sosnovsky, S., Isotani, S., & Van Velsen, M.
+    year: 2012
+    image: erroneous-example-2.jpg
+    description: 'With over 100 students per condition, an erroneous example effect was found: students who worked with the interactive erroneous examples did significantly better than the problem solving students on a delayed posttest. While this finding is highly encouraging, our ultimate research question is this: how can erroneous examples be adaptively presented to students, targeted at their most deeply held misconceptions, to best leverage their effectiveness? This paper discusses how the results of the present study will lead us to an adaptive version of the erroneous examples material. '
+    notes: 
+    link_display: 'Proceedings of EC-TEL 2012: Seventh European Conference on Technology Enhanced Learning, LNCS 7563 (pp. 222-235). Springer, Berlin.'
+    link_url: https://www.youtube.com/watch?v=ex2vYwig2Sk
+    pdf: https://www.cs.cmu.edu/%7Ebmclaren/pubs/McLarenEtAl-AdaptErrExStudy-ECTEL2012.pdf
+
+  - title: 'Towards intelligent tutoring with erroneous examples: A taxonomy of decimal misconceptions.'
+    authors: Isotani, S., McLaren, B.M.,& Altman, M. 
+    year: 2010
+    image: decimal-misconceptions.jpg
+    description: 'In the mathematics domain of decimals, students have common and persistent misconceptions. These misconceptions have been identified, studied, and published by many researchers. This paper presents an initial taxonomy of all decimal misconceptions. We also discuss the potential use and benefits of such a taxonomy in supporting the development of intelligent tutors that use erroneous examples as a learning tool for middle-school math students. results of past work.'
+    notes: 
+    link_display: 'In V. Aleven, J. Kay, J. Mostow (Eds.), Proceedings of the 10th International Conference on Intelligent Tutoring Systems (ITS-10), Lecture Notes in Computer Science, 6094 (pp. 346-348). Berlin: Springer. '
+    link_url: 
+    pdf: https://www.cs.cmu.edu/%7Ebmclaren/pubs/IsotaniEtAl-DecMisc-ITS2010.pdf
+
+# ======================================================== Stoich Tutor =================================================================
+- title: Stoichiometry Tutor
+  description: Using neurophysiological measures to better understand learning with an intelligent tutor.
+  image: stoich-tutor.jpg
+
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141139&HistoricalAwards=false
+    title: 'National Science Foundation, Award No: 2141139'
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=0354420
+    title: 'National Science Foundation, Award No: 0354420'
+  
+  site_link:
+  site_title:
+
+  publications: 
+  - title: 'The efficiency of worked examples compared to erroneous examples, tutored problem solving, and problem solving in classroom experiments.'
+    authors: McLaren, B.M., van Gog, T., Ganoe, C., Karabinos, M., &  Yaron, D. 
+    year: 2016
+    image: stoichiometry-worked-example.jpg
+    description: ' This study presents two multi-session classroom experiments in the domain of chemistry, comparing the effectiveness and efficiency of three high-assistance (worked examples, tutored problems, and erroneous examples) and one low-assistance (untutored problem solving) instructional approach, with error feedback consisting of either elaborate worked examples (Experiment 1) or basic correctness feedback (Experiment 2).'
+    notes: 
+    link_display: Computers in Human Behavior, 55, 87-99. 
+    link_url: https://www.sciencedirect.com/science/article/abs/pii/S074756321530114X
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenVanGogEtAl-Efficiency%20of%20WE-CHB016.pdf
+
+  - title: 'Polite web-based intelligent tutors: Can they improve learning in classrooms?'
+    authors: McLaren, B.M.,  DeLeeuw, K.E., & Mayer, R.E. 
+    year: 2011
+    image: stoichiometry-problem.jpg
+    description: 'Should an intelligent software tutor be polite, in an effort to motivate and cajole students to learn, or should it use more direct language? If it should be polite, under what conditions? In a series of studies, the politeness effect was investigated in the context of web-based intelligent tutoring systems.'
+    notes: 
+    link_display: Computers & Education, 56(3), 574-584. 
+    link_url: https://dl.acm.org/doi/abs/10.1016/j.compedu.2010.09.019
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenEtAl-PoliteITSAndLearning-CompAndEd2011.pdf
+
+  - title: 'A politeness effect in learning with web-based intelligent tutors.'
+    authors: McLaren, B.M., DeLeeuw, K.E., & Mayer, R.E. 
+    year: 2011
+    image: social-agency-theory.jpg
+    description: 'College students learned to solve chemistry stoichiometry problems with a web-based intelligent tutor that provided hints and feedback, using either polite or direct language. There was a pattern in which students with low prior knowledge of chemistry performed better on subsequent problem-solving tests if they learned from the polite tutor rather than the direct tutor, whereas students with high prior knowledge showed the reverse trend. '
+    notes: 
+    link_display: International Journal of Human Computer Studies, 69(1-2), 70-79
+    link_url: https://psycnet.apa.org/record/2010-22514-001
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenEtAl-PolitenessEffect-IJHCS2011.pdf
+
+  - title: When and how often should worked examples be given to students? New results and a summary of the current state of research.
+    authors: McLaren, B.M., Lim, S., & Koedinger, K.R.
+    year: 2008
+    image: assistance-chart.jpg
+    description: 'Our work explores the assistance dilemma: when should instruction provide or withhold assistance? In three separate but very similar studies, we have investigated whether worked examples, a high-assistance approach, studied in conjunction with tutored problems to be solved, a mid-level assistance approach, can lead to better learning.'
+    notes: 
+    link_display: 'Proceedings of the 30th Annual Conference of the Cognitive Science Society (pp. 2176-2181). Austin, TX: Cognitive Science Society.'
+    link_url: 
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenEtAl-WhenAndHowOften-CogSci2008.pdf
+
+
+# =================================================== Elasticity Tutor ============================================================ 
+- title: Elasticity Tutor
+  description: Exploring the efficacy of AI-augmented learning technologies for community college information technology courses.
+  image: elasticity-tutor.jpg
+
+  site_link:
+  site_title:
+
+  grants:
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222762&HistoricalAwards=false
+    title: 'National Science Foundation, Future of Work, Award No: 2222762'
+  
+  publications:
+  - title: 'Community college information technology education: Curriculum mapping, a learning science framework, and AI learning technologies. '
+    authors: McLaren, B.M., Herckis, L., Teffera, L., Branstetter, L., Rose, C.P., Sakr, M., Kisow, M., Reis, R., Rinsem, M., Alenius, M., & Miller, L.
+    year: 2024
+    image: kc-tracing.jpg
+    description: 'Most jobs in the digital economy require 4-year university degrees, excluding many community college students. To help these students join the digital economy, our project team is developing AI-based learning technology using a novel approach. This analysis is guiding us in developing intelligent tutors and collaborative learning technology, empirically-tested forms of AI-based learning technology, to support IT students. In this paper, we describe our innovative approach and results thus far.'
+    notes: 
+    link_display: Paper presented at AERA 2024, the 2024 Annual Meeting of American Educational Research Association (AERA). Philadelphia, PA, April 11-14, 2024.
+    link_url: 
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLarenEtAl-ALearningScience%20FrameworkCurriculumMappinAndAITechnologies-AERA2024.pdf
+
+
+# ======================================================== Genetics Tutor ================================================================
+- title: Genetics Tutor
+  description: Investigating nuances in Knowledge Tracing and Cognitive Modeling using a collegiate-level genetics intelligent tutoring system.
+  image: genetics-tutor.jpg
+  
+  site_link: https://www.cs.cmu.edu/~genetics/index.html
+  site_title: Visit the Genetics Tutor project website!
+
+  grants: 
+  - link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1420609&HistoricalAwards=false
+    title: 'National Science Foundation, Division of Research on Learning, Award No: 1420609'
+  
+  publications:
+  - title: Exploring learner model differences between students. 
+    authors: Eagle, M., Corbett, A., Stamper, J.,  McLaren, B.M., Baker, R., Wagner, A., MacLaren, B.,  & Mitchell, A.
+    year: 2017
+    image: genetics-tutor-problem-1.jpg
+    description: 'This study investigates how well Bayesian Knowledge Tracing parameters in a tutor lesson can be individualized ahead of time, based on learners’ prior activities, including reading text and completing prior tutor lessons.'
+    notes: 
+    link_display: 'In E. André,  R. Baker,  X. Hu,  M.M.T. Rodrigo,  and B. du Boulay (Eds.). Proceedings of the 18th International Conference on Artificial Intelligence in Education (AIED 2017). LNAI 10331 (pp. 494-497).  Springer: Berlin.' 
+    link_url: 
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/EagleEtAl-GeneticsTutor-AIED2017.pdf
+  
+  - title: Predicting individual differences for learner modeling in intelligent tutors from previous learner activities.
+    authors: Eagle, M., Corbett, A., Stamper, J.,  McLaren, B. M., Baker, R., Wagner, A.,  MacLaren, B.,  &  Mitchell, A.
+    year: 2016
+    image: genetics-tutor-problem-2.jpg
+    description: ' In this work, we examine how well Bayesian Knowledge Tracing parameters in a tutor lesson can be individualized based on learners’ prior performance in reading instructional text, taking a pretest, and completing an earlier tutor lesson.'
+    notes: Won the Best Paper Award!
+    link_display: Proceedings of the 24th Conference on User Modeling, Adaptation and Personalization (UMAP 2016).  ACM, New York, NY.  (pp. 55-63)  ISBN 978-1-4503-4370-1/16/07
+    link_url: https://dl.acm.org/doi/10.1145/2930238.2930255
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/EagleEtAl-PredictingIndDiffsForLearnerModelingFromPreviousActivities-UMAP2016.pdf
+
+  - title: Estimating individual differences for student modeling in intelligent tutors from reading and pretest data.
+    authors: Eagle, M., Corbett, A., Stamper, J., McLaren, B. M., Wagner, A.,  MacLaren, B., &  Mitchell, A. 
+    year: 2016
+    image: genetics-tutor-table.jpg
+    description: 'Standard Bayesian Knowledge Tracing individualizes parameter estimates for skills, also referred to as knowledge components (KCs), but not for students. Studies deriving individual student parameters from the data logs of student tutor performance have shown improvements to the standard BKT model fits, and result in different practice recommendations for students. This study investigates whether individual student parameters, specifically individual difference weights (IDWs) can be derived from student activities prior to tutor use.'
+    notes: Nominated for the Best Paper Award!
+    link_display:  Proceedings of the 13th International Conference on Intelligent Tutoring Systems (ITS 2016).  LNCS 9684 (pp. 133-143).
+    link_url: 
+    pdf: https://www.cs.cmu.edu/~bmclaren/pubs/EagleEtAl-EstimatingIndividualDifferencesForStudent%20ModelingReadingAndPretestData-ITS2016.pdf
+
+

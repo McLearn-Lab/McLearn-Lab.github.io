@@ -1,0 +1,53 @@
+# - date: 
+#   headline: 
+#   link:
+#   link_text:
+#   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
+
+- date: September 2024
+  headline: Dr. McLaren co-chaired the doctoral consortium and presented a paper at the ECTEL 2024 conference in Austria. 
+  link: https://www.cs.cmu.edu/~bmclaren/pubs/NiEtAl-DecimalPointRaceEthnicityAnalysis-ECTEL2024.pdf
+  link_text: '[ pdf ]'
+  frontpage: 1
+
+- date: Soon to be published!
+  headline: 'McLaren, B.M. (in press). Decimal Point: A decade of learning science findings with a digital learning game. To appear in P. Ilic, R. Wegerif, & I. Casebourne (Eds.), Artificial Intelligence in Education: The Intersection of Technology and Pedagogy.  Springer Verlag Germany.'
+  link: http://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
+  link_text: '[ pdf ]'
+  frontpage: 1
+
+- date: August 21, 2024
+  headline: '<b>Published</b>: Gaming the system mediates the relationship between gender and learning outcomes in a digital learning game'
+  frontpage: 1
+  link: https://link.springer.com/content/pdf/10.1007/s11251-024-09679-3.pdf
+  link_text: '[ pdf ]'
+  
+- date: July 8-12, 2024
+  headline: Dr. McLaren gave two talks at the AI in Education (AIED 2024) conference in Brazil
+  frontpage: 1
+
+- date: May, 2024
+  headline: Dr. McLaren is interviewed on "The Mindfulness Podcast with Dr. David Black"
+  link: https://goamra.org/page-18106
+  link_text: '[ Link Here ]'
+  frontpage: 0
+
+- date: February, 2024
+  headline: 'Carnegie Mellon University HCII Seminar Talk:  "Decimal Point: A Decade of Learning Science Findings with a Digital Learning Game"'  
+  frontpage: 1
+
+- date: February, 2024
+  headline: 'Dr. McLaren is keynote speaker for the 11th International Conference on e-Learning and e-Teaching (ICeLeT 2024), Focusing on Technology Enhanced Learning. Title of talk: "A Decade with Decimal Point: How a Digital Learning Game Became a Research Platform," (Virtual Presentation) Isfahan, Iran. '
+  link: https://icelet2024.ui.ac.ir/en/page.php?rid=76
+  link_text: '[ Link Here ]'
+  frontpage: 0
+
+- date: January, 2024
+  headline: Dr. Huy Nguyễn, McLearn Lab member, successfully defended his thesis!
+  frontpage: 0
+
+- date: September, 2023
+  headline: Lab paper, first authored by Huy Nguyễn, wins the Best Paper Award at the Eighteenth Annual European Conference on Technology Enhanced Learning (ECTEL 2023).
+  link: https://www.linkedin.com/posts/bruce-martin-mclaren-84269826_so-proud-of-my-lab-at-carnegie-mellon-university-activity-7105866525684768768-THDI/?utm_source=share&utm_medium=member_desktop
+  link_text: '[ Link Here ]'
+  frontpage: 0

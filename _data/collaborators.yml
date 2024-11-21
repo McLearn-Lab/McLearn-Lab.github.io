@@ -1,0 +1,54 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  site: 
+
+- name: Richard Mayer
+  photo: richard-mayer.jpg
+  info: Distinguished Professor, University of California, Santa Barbara
+  site: https://mayerlab.psych.ucsb.edu/people/richard-mayer
+- name: Ryan Baker
+  photo: ryan-baker.jpg
+  info: Professor, University of Pennsylvania
+  site: https://www.gse.upenn.edu/academics/faculty-directory/baker
+
+- name: Nicole Else-Quest
+  photo: nicole-else-quest.jpg
+  info: Professor, University of North Carolina at Chapel Hill
+  site: https://elsequest.com/
+
+- name: Jess Hammer
+  photo: jess-hammer.jpg
+  info: Associate Professor of Learning Sciences, Carnegie Mellon University
+  site: https://www.hcii.cmu.edu/people/jessica-hammer
+
+- name: Eniko Bereczki
+  photo: eniko-bereczki.jpg
+  info: Assistant Professor, Eötvös Loránd University
+  site: https://www.enikobereczki.com/
+  
+- name: Zsofia Takacs
+  photo: zsofia-takacs.jpg
+  info: Lecturer in Applied Psychology, The University of Edinburgh
+  site: https://www.ed.ac.uk/profile/zsofia-garai-takacs
+  
+- name: Sandy Katz
+  photo: sandy-katz.jpg
+  info: Research Associate, TELL Lab, University of Pittsburgh
+  site: https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=25
+  
+- name: Erik Harpstead
+  photo: erik-harpstead.jpg
+  info: System Scientist, Carnegie Mellon University
+  site: https://www.erikharpstead.net/
+  
+- name: Jon Star
+  photo: jon-star.jpg
+  info: Professor of Education, Harvard University
+  site: https://www.gse.harvard.edu/directory/faculty/jon-star
+
+- name: Dave Yaron
+  photo: dave-yaron.jpg
+  info: Professor of Chemistry, Carnegie Mellon University
+  site: https://www.cmu.edu/chemistry/people/faculty/yaron.html
+  

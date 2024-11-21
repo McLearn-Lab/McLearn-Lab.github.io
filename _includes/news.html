@@ -1,0 +1,14 @@
+
+<div class="well">
+<h4>News</h4>
+
+{% for article in site.data.news limit:6 %}
+{% if article.frontpage == 1 %}
+<p><em>{{ article.date }}</em><br>{{ article.headline }}<br>
+{% if article.link %}<a href={{article.link}}>{{article.link_text}}</a></p>{% endif %}
+{% endif %}
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+
+    </div>

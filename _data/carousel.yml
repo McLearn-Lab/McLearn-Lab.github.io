@@ -1,0 +1,35 @@
+# - name: (Bolded title of project)
+#   image: (Image file, relative to folder images/research)
+#   caption_text: (caption displayed)
+
+- name: Race and Gender
+  image: four-games.jpg
+  caption_text: 'Race and Gender: How learning games can impact and support equity'
+
+- name: Decimal Point
+  image: decimal-point-map.jpg
+  caption_text: Decimal Point
+
+- name: Angle Jungle
+  image: angle_jungle.PNG
+  caption_text: Angle Jungle
+
+- name: Ocean Adventure
+  image: ocean-adventure.jpg
+  caption_text: Ocean Adventure
+
+- name: AdaptErrEx
+  image: adapterrex.jpg
+  caption_text: Adapterrex
+
+- name: Stoichiometry Tutor
+  image: stoich_tutor.PNG
+  caption_text: Stoichiometry Tutor
+
+- name: Elasticity Tutor
+  image: elasticity-tutor.jpg
+  caption_text: Elasticity Tutor
+
+- name: Genetics Tutor
+  image: genetics-tutor.jpg
+  caption_text: Genetics Tutor
