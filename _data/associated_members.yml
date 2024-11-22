@@ -12,19 +12,15 @@
 - name: Jacklyn Cui
   photo: jacklyn-cui.jpg
   info: Research Intern, started 2024
-  email: 
   number_educ: 0
-
 
 - name: Esma Kahveci
   photo: esma-kahveci.jpg
   info: PhD. Candidate, Distinguished Research Fellow at UMass Dartmouth, started 2021
-  email: 
   number_educ: 3
   education1: M.S. in STEM Education & Teacher Development, University of Massachusetts, Dartmouth
   education2: M.A. in Education Technology, Eötvös Lorand University, Hungary
   education3: B.A. in Elementary Mathematics Teaching, Traya University, Turkey
-
 
 - name: Alessandro Pagano
   photo: alessandro-pagano.jpg
@@ -40,3 +36,26 @@
   site: https://www.linkedin.com/in/xiaoliny
   number_educ: 1
   education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+
+- name: Junhui Yao
+  photo: junhui-yao.jpg
+  info: Research Assistant, started 2024
+  site: https://www.junhuiy.com/
+  number_educ: 2
+  education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+  education2: B.A. in Communication, University of Colorado, Denver (ICB).
+  
+- name: Vishal Kumar
+  photo: vishal-kumar.jpg
+  info: Research Intern, started 2024
+  site: https://vishyfishy02.github.io/
+  number_educ: 1
+  education1: B.S. in Computer Science and Engineering, The Ohio State University
+
+- name: Canwen Wang
+  photo: canwen-wang.jpg
+  info: Research Assistant, started 2024
+  number_educ: 2
+  education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+  education2: M.F.A. in Visual Communication Design, Purdue University
+  

@@ -7,12 +7,12 @@ https://www.allanlab.org/aboutwebsite.html
 
 # Editing instructions
 
-# 1: Clone repository 
+# 1: Install dependencies
+todo write instructions
+
+# 2: Clone repository 
 First, you will need to clone this repository. 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-
-# 2: Install dependencies
-todo
 
 # 3: Launch development server 
 `jekyll serve` 
