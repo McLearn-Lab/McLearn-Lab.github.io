@@ -8,7 +8,9 @@ https://www.allanlab.org/aboutwebsite.html
 # Editing instructions
 
 # 1: Install Dependencies
-You need <a href="https://git-scm.com/downloads"> Git</a>, Ruby and Jekyll. 
+1) <a href="https://git-scm.com/downloads"> Git</a> for checking out these files and uploading your changes.
+2) <a href="https://www.ruby-lang.org/en/downloads/"> Ruby version 2.5 or later </a>, the language the engine uses. (You don't need to know the language just have it installed)
+3) <a href="https://jekyllrb.com/">Jekyll</a> the Ruby library used that allows for easy-to-use interfacing for static sites.  
 
 # 2: Clone repository 
 First, you will need to clone this repository. 
