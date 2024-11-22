@@ -1,6 +1,7 @@
 # McLearn Lab website
 
 This is the website of our academic research group at CMU
+https://www.cs.cmu.edu/~bmclaren/mclearnlab/
 
 We used the Allan Lab template to make this.
 https://www.allanlab.org/aboutwebsite.html
@@ -10,17 +11,17 @@ https://www.allanlab.org/aboutwebsite.html
 # 1: Install Dependencies
 1) <a href="https://git-scm.com/downloads"> Git</a> for checking out these files and uploading your changes.
 2) <a href="https://www.ruby-lang.org/en/downloads/"> Ruby version 2.5 or later </a>, the language the engine uses. (You don't need to know the language just have it installed)
-3) <a href="https://jekyllrb.com/">Jekyll</a> the Ruby library used that allows for easy-to-use interfacing for static sites.  
+3) <a href="https://jekyllrb.com/">Jekyll</a> the Ruby library used that allows for easy-to-use interfacing for static sites. I recommend installing this after you've cloned the repository to your machine (step 2). 
 
 # 2: Clone repository 
-First, you will need to clone this repository. 
+You will need to clone this repository onto your machine. 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 # 3: Launch development server 
 To launch the development server, run 
 `jekyll serve` 
 
-click the link in terminal to pull up a development run of the site.
+click the link in terminal to pull up a development version of the site.
 
 # 4: Edit
 Edit _data/* to edit the content and corresponding images (todo flesh out these instructions)
