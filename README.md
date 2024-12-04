@@ -134,5 +134,5 @@ When prompted, enter your password
 
 This command securely copies (scp) recursively (-r) packaged site (_site/*) to the mcLearnlab directory in Bruce's cs.cmu space (YOUR_USER@linux.gp.cs.cmu.edu:../bmclaren/www/mclearnlab)
 
-# 7 update github
+# 7 Update github
 Make sure to keep github up to date in case anyone else goes to edit the site. 
