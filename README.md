@@ -27,9 +27,12 @@ click the link in terminal to pull up a development version of the site.
 To edit the different parts of the website, you will need to change the corresponding configurations in _data. Once you have the development server up and running from step 3, then you can just refresh your test build to see these changes. These tutorials will explain how to add new entries, but you can edit existing information on the site by editing the existing entries in the files specified. 
 <details>
 <summary>
-<h2> Home page </h2>
+
+## Home page 
 </summary>
-<h3> HOME PAGE CAROUSEL: </h3>
+
+### HOME PAGE CAROUSEL: 
+
 In `_data/carousel.yml`, add a new entry following this pattern.
 ![Local Image](./README-assets/carousel.png)
 
@@ -45,45 +48,50 @@ Add an entry in `_data/news.yml` following this pattern.
 
 <details>
 <summary>
+
 ## Team Page
 </summary>
+
 ### GROUP MEMBERS: 
 In `_data/team_members.yml`, add a new entry following this pattern. 
 ![Local Image](./README-assets/group-members.png)
 Add your corresponding photo to `images/team/`. 
 `number_educ` should match the amount of education bullet points you have listed. 
 
-<h3> ASSOCIATED MEMBERS: </h3>
+### ASSOCIATED MEMBERS:
 Follow the same instructions as for group members, but edit `_data/associated_members.yml` instead. Your photo will still go in `images/team/`. 
 
-<h3> KEY COLLABORATORS: </h3>
+### KEY COLLABORATORS:
 Add an entry to `_data/collaborators.yml`, following this pattern.
 ![Local Image](./README-assets/collaborators.png)
 Add your corresponding photo to `images/team/`.
 
-<h3> FORMER MEMBERS: </h3>
+### FORMER MEMBERS:
 Add an entry to `_data/former_members.yml`, following this pattern.
 ![Local Image](./README-assets/former-members.png)
 Add your corresponding photo to `images/team/`.
 
-<h3> FORMER REU PROGRAM INTERNS: </h3>
+### FORMER REU PROGRAM INTERNS:
 Add an entry to `_data/former_interns.yml`, following this pattern.
 ![Local Image](./README-assets/former-interns.png)
 Add your corresponding photo to `images/team/`.
 <b>Make sure you follow proper yml nesting syntax, adding the individual interns into the `people` field of the given year.</b> 
 
-<h3> FORMER VISITORS: </h3>
+### FORMER VISITORS:
 Add an entry to `data_former_visitors.yml` following this pattern.
 ![Local Image](./README-assets/visitors.png)
 
-<h3> ADMINISTRATIVE SUPPORT: </h3>
+### ADMINISTRATIVE SUPPORT:
 To edit the administrative support info, you can find that at the bottom of `_pages/team.md`.
 </details>
 <details>
 <summary>
-<h2> Research Page</h2>
+
+## Research Page
 </summary>
-<h3> RESEARCH PROJECTS: </h3>
+
+### RESEARCH PROJECTS: 
+
 To add an entirely new research project, in `_data/research.yml`, add a new entry following this pattern.
 ![Local Image](./README-assets/research.png)
 
@@ -93,10 +101,11 @@ If you want an image in the home page carousel that links to the project, make s
 
 <b>Note that the grants and publications entries are nested inside of the research projects in `research.yml`. To edit the following, make sure to use proper yml nesting syntax, including indentation and hyphens where needed. </b>
 
-<h4> GRANTS: </h4>
+#### GRANTS: 
 Add a title and link to the nested `grants` field of your desired research project, following the pattern in the previous screenshot. 
 
-<h4> PUBLICATIONS: </h4>
+#### PUBLICATIONS: 
+
 Add an entry to the nested `publications` field of your desired research project, following the pattern in the previous screenshot. 
 Add your picture for the publication to `images/publications`. 
 </details>
