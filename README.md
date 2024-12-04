@@ -25,9 +25,10 @@ click the link in terminal to pull up a development version of the site.
 
 # 4: Edit
 To edit the different parts of the website, you will need to change the corresponding configurations in _data. Once you have the development server up and running from step 3, then you can just refresh your test build to see these changes. These tutorials will explain how to add new entries, but you can edit existing information on the site by editing the existing entries in the files specified. 
-
+<details>
+<summary>
 ## Home page 
-
+</summary>
 ### HOME PAGE CAROUSEL:
 In `_data/carousel.yml`, add a new entry following this pattern.
 ![Local Image](./README-assets/carousel.png)
@@ -40,9 +41,12 @@ By default, this image will on-click route to a corresponding entry in the resea
 Add an entry in `_data/news.yml` following this pattern. 
 ![Local Image](./README-assets/news.png)
 `frontpage` should be 1 if you want it on the main page, or 0 if you only want it visible upon clicking "see all news".
+</details>
 
+<details>
+<summary>
 ## Team Page
-
+</summary>
 ### GROUP MEMBERS: 
 In `_data/team_members.yml`, add a new entry following this pattern. 
 ![Local Image](./README-assets/group-members.png)
@@ -74,9 +78,11 @@ Add an entry to `data_former_visitors.yml` following this pattern.
 
 ### ADMINISTRATIVE SUPPORT:
 To edit the administrative support info, you can find that at the bottom of `_pages/team.md`.
-
+</details>
+<details>
+<summary>
 ## Research Page
-
+</summary>
 ### RESEARCH PROJECTS:
 To add an entirely new research project, in `_data/research.yml`, add a new entry following this pattern.
 ![Local Image](./README-assets/research.png)
@@ -93,7 +99,7 @@ Add a title and link to the nested `grants` field of your desired research proje
 ##### PUBLICATIONS:
 Add an entry to the nested `publications` field of your desired research project, following the pattern in the previous screenshot. 
 Add your picture for the publication to `images/publications`. 
-
+</details>
 # 5: Package for deployment
 Once you are happy with your changes, you can't send it to the server just yet because it is configured with your machine as the server.
 Before sending the site into the server, you need to package it by running
