@@ -19,6 +19,7 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/cloni
 
 # 3: Launch development server 
 To launch the development server, run 
+
 `jekyll serve` 
 
 click the link in terminal to pull up a development version of the site.
@@ -113,16 +114,20 @@ Add your picture for the publication to `images/publications`.
 # 5: Package for deployment
 Once you are happy with your changes, you can't send it to the server just yet because it is configured with your machine as the server.
 Before sending the site into the server, you need to package it by running
+
 `jekyll build`
+
 This packages a static site nicely into the folder `_site`, with Bruce's server space configured as the server.
 
 # 6: Deploy
 First, you will need to make sure you have read/write access to the directory space in cs.cmu.edu for the site. Talk to Bruce about this, he has to request from IT. 
 
 To deploy, (if you are not Bruce McLaren), run 
+
 `scp -r _site/* YOUR_USER@linux.gp.cs.cmu.edu:../bmclaren/www/mclearnlab`
 
 If you are Bruce, it is 
+
 `scp -r _site/* YOUR_USER@linux.gp.cs.cmu.edu:/www/mclearnlab`
 
 When prompted, enter your password
