@@ -4,6 +4,10 @@
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
 
+-date: October 2024
+  headline: Meaningful Play 2024 was held in Pittsburgh, and Hayden gave a talk about our gender effect findings with Decimal Point!
+  frontpage: 1
+
 - date: September 2024
   headline: Dr. McLaren co-chaired the doctoral consortium and presented a paper at the ECTEL 2024 conference in Austria. 
   link: https://www.cs.cmu.edu/~bmclaren/pubs/NiEtAl-DecimalPointRaceEthnicityAnalysis-ECTEL2024.pdf
