@@ -4,8 +4,21 @@
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
 
+- date: Published!
+  headline: 'Prof. Bruce M. McLaren, B.M. (2024). <em>Decimal Point: A decade of learning science findings with a digital learning game.</em> In: Ilic, P., Casebourne, I., Wegerif, R. (eds) <em>Artificial Intelligence in Education: The Intersection of Technology and Pedagogy.</em> Intelligent Systems Reference Library, vol 261. Springer, Cham.'
+  link: http://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
+  link_text: '[ pdf ]'
+  link2: https://www.barnesandnoble.com/w/artificial-intelligence-in-education-peter-ilic/1146073453
+  link2_text: '[ Online Citation ]'
+  frontpage: 1
+
+- date: February 2025
+  headline: The McLearn Lab completed our first full-length study with our Angle Jungle game!
+  frontpage: 1 
 - date: October 2024
-  headline: Meaningful Play 2024 was held at CMU, and Hayden gave a talk about our gender effect findings with Decimal Point!
+  headline: Meaningful Play 2024 was held at CMU, and Hayden gave a talk about our gender effect findings with Decimal Point! <br/>Citation:<br/>Stec, H., Richey, J.E., Nguyen, H., Else-Quest, N., Hammer, J., Baker, R.S., Arroyo, I., & McLaren, B.M. (2024). <em>Using a multi-dimensional model of gender to assess learning with different game-based learning narratives.</em> Paper presented at Meaningful Play 2024. Pittsburgh, PA, October 16-18, 2024 
+  link: https://www.cs.cmu.edu/~bmclaren/pubs/StecEtAl-MultidimensionsOfGenderToAssessDifferentGBLNarratives-MeaningfulPlay2024.pdf
+  link_text: '[ pdf ]'
   frontpage: 1
 
 - date: September 2024
@@ -14,21 +27,15 @@
   link_text: '[ pdf ]'
   frontpage: 1
 
-- date: Soon to be published!
-  headline: 'McLaren, B.M. (in press). Decimal Point: A decade of learning science findings with a digital learning game. To appear in P. Ilic, R. Wegerif, & I. Casebourne (Eds.), Artificial Intelligence in Education: The Intersection of Technology and Pedagogy.  Springer Verlag Germany.'
-  link: http://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
-  link_text: '[ pdf ]'
-  frontpage: 1
-
 - date: August 21, 2024
   headline: '<b>Published</b>: Gaming the system mediates the relationship between gender and learning outcomes in a digital learning game'
-  frontpage: 1
+  frontpage: 0
   link: https://link.springer.com/content/pdf/10.1007/s11251-024-09679-3.pdf
   link_text: '[ pdf ]'
   
 - date: July 8-12, 2024
   headline: Dr. McLaren gave two talks at the AI in Education (AIED 2024) conference in Brazil
-  frontpage: 1
+  frontpage: 0
 
 - date: May, 2024
   headline: Dr. McLaren is interviewed on "The Mindfulness Podcast with Dr. David Black"
@@ -38,7 +45,7 @@
 
 - date: February, 2024
   headline: 'Carnegie Mellon University HCII Seminar Talk:  "Decimal Point: A Decade of Learning Science Findings with a Digital Learning Game"'  
-  frontpage: 1
+  frontpage: 0
 
 - date: February, 2024
   headline: 'Dr. McLaren is keynote speaker for the 11th International Conference on e-Learning and e-Teaching (ICeLeT 2024), Focusing on Technology Enhanced Learning. Title of talk: "A Decade with Decimal Point: How a Digital Learning Game Became a Research Platform," (Virtual Presentation) Isfahan, Iran. '

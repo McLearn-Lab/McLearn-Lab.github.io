@@ -2,10 +2,14 @@
 <div class="well">
 <h4>News</h4>
 
-{% for article in site.data.news limit:6 %}
+{% for article in site.data.news limit:5 %}
 {% if article.frontpage == 1 %}
-<p><em>{{ article.date }}</em><br>{{ article.headline }}<br>
-{% if article.link %}<a href={{article.link}}>{{article.link_text}}</a></p>{% endif %}
+<p>
+    <span style="font-size: 1.2em;"><em><b>{{ article.date }}</b></em></span><br>
+    {{ article.headline }}<br>
+    {% if article.link %}<a href={{article.link}}>{{article.link_text}}</a>{% endif %}
+    {% if article.link2 %}<a href={{article.link2}}>{{article.link2_text}}</a>{% endif %}
+</p>
 {% endif %}
 {% endfor %}
 
