@@ -15,6 +15,7 @@
 - date: February 2025
   headline: The McLearn Lab completed our first full-length study with our Angle Jungle game!
   frontpage: 1 
+  
 - date: October 2024
   headline: Meaningful Play 2024 was held at CMU, and Hayden gave a talk about our gender effect findings with Decimal Point! <br/>Citation:<br/>Stec, H., Richey, J.E., Nguyen, H., Else-Quest, N., Hammer, J., Baker, R.S., Arroyo, I., & McLaren, B.M. (2024). <em>Using a multi-dimensional model of gender to assess learning with different game-based learning narratives.</em> Paper presented at Meaningful Play 2024. Pittsburgh, PA, October 16-18, 2024 
   link: https://www.cs.cmu.edu/~bmclaren/pubs/StecEtAl-MultidimensionsOfGenderToAssessDifferentGBLNarratives-MeaningfulPlay2024.pdf
@@ -25,6 +26,8 @@
   headline: Dr. McLaren co-chaired the doctoral consortium and presented a paper at the ECTEL 2024 conference in Austria. 
   link: https://www.cs.cmu.edu/~bmclaren/pubs/NiEtAl-DecimalPointRaceEthnicityAnalysis-ECTEL2024.pdf
   link_text: '[ pdf ]'
+  link2: https://ceur-ws.org/Vol-3927/
+  link2_text: '[ Online Citation ]'
   frontpage: 1
 
 - date: August 21, 2024
