@@ -22,10 +22,6 @@
   link_text: '[ Announcement ]'
   frontpage: 1
 
-- date: April 2025
-  headline: Professor McLaren gave two keynote talks at the followingg events. <br /> 1. The EATEL summer school - May 13, 2025 <a href= "https://ea-tel.eu/jtelss25/keynotes#bm-mclaren">[ Announcement ]</a> <br /> 2. The Learning Ideas Conference - June 2025 <a href= "https://www.learningideasconf.org/bruce-martin-mclaren">[ Announcement ]</a>
-  frontpage: 0
-
 - date: February 2025
   headline: '<b>Published</b>: Zhang, J., Baker, R.S., Srivastava, N., Ocumpaugh, J.L., Mills, C., & McLaren, B.M. (2025). Carelessness detection using performance factor analysis: A new operationalization with unexpectedly different relationship to learning.'
   link: https://www.cs.cmu.edu/~bmclaren/pubs/ZhangEtAl-CarelessnessDetectionUsingPFA-arXiv2025.pdf
