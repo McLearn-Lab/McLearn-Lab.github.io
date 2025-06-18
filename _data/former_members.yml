@@ -4,6 +4,29 @@
 #   role_with_lab: 
 #   site: 
 
+- name: Vishal Kumar
+  photo: vishal-kumar.jpg
+  info: Fulbright Scholar
+  role_with_lab: Research Intern
+  site: https://vishyfishy02.github.io/
+
+- name: Xiaolin Ni
+  photo: xiaolin-ni.jpg
+  info: Learning Engineer, Carnegie Mellon University
+  role_with_lab: Research Assistant
+  site: https://www.linkedin.com/in/xiaoliny
+
+- name: Jacklyn Cui
+  photo: jacklyn-cui.jpg
+  info: B.A. in Mathematics Student, University of Washington
+  role_with_lab: Research Intern
+
+- name: Autumn Qiu
+  photo: autumn-qiu.jpg
+  info: B.S. in Information Systems Student, Carnegie Mellon University
+  role_with_lab: Digital Learning Game Programmer 
+  site: https://www.linkedin.com/in/autumn-qiu/
+
 - name: Huy Nguyễn
   photo: huy-nguyen.jpg
   info: Applied Scientist, Amazon
@@ -93,3 +116,4 @@
   info: Director of Online Marketing, Mind's I
   role_with_lab: Research Programmer
   site: https://www.linkedin.com/in/mscottherbst/
+

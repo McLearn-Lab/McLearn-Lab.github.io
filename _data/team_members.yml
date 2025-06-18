@@ -31,7 +31,7 @@
 
 - name: Leah Teffera
   photo: leah-teffera.jpg
-  info: Research Programmer, started 2022
+  info: Project Manager, started 2022
   site: https://www.linkedin.com/in/lteffera/
   number_educ: 2
   education1: (In progress) Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
@@ -50,10 +50,20 @@
 
 - name: Aditi Haiman
   photo: aditi-haiman.jpg
-  info: PhD. student, started 2024
+  info: PhD. Student, started 2024
   site: 
-  number_educ: 1
-  education1: B.A. in Computer Science, Barnard College
+  number_educ: 2
+  education1: (In progress) PhD. in Human-Computer Interaction, Carnegie Mellon University
+  education2: B.A. in Computer Science, Barnard College
+  
+- name: Marshall An
+  photo: marshall-an.jpg
+  info: PhD. Student, started 2025
+  site: https://hcii.cmu.edu/people/marshall
+  number_educ: 3
+  education1: (In progress) PhD. in Human Computer Interaction, Carnegie Mellon University
+  education2: Master of Information Systems Management, Carnegie Mellon University
+  education3: Bachelor of Management, Management Information Systems, Tsinghua University
 
 
 - name: Daniel Pollock
@@ -63,12 +73,20 @@
   number_educ: 1
   education1: B.S. in Applied Developmental Psychology, University of Pittsburgh
 
-- name: Autumn Qiu
-  photo: autumn-qiu.jpg
-  info: Digital Learning Game Programmer Intern, started 2024
-  site: https://www.linkedin.com/in/autumn-qiu/
+- name: Canwen Wang
+  photo: canwen-wang.jpg
+  info: Research Assistant, started 2024
+  number_educ: 2
+  education1: (In progress) Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+  education2: M.F.A. in Visual Communication Design, Purdue University
+
+- name: Angie Chi
+  photo: angie-chi.jpg
+  info: REU Intern, started 2025
+  site: https://www.linkedin.com/in/angie-c-9b0b551b5/
   number_educ: 1
-  education1: (In progress) B.S. in Information Systems, Carnegie Mellon University
+  education1: (In progress) B.S. in Computer Science, Carnegie Mellon University
+
 
 - name: "Interested in working with our lab?"
   photo: rock.jpg

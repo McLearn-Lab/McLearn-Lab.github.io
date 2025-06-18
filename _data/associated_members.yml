@@ -8,12 +8,6 @@
 #  education3:
 #  education4:
 
-
-- name: Jacklyn Cui
-  photo: jacklyn-cui.jpg
-  info: Research Intern, started 2024
-  number_educ: 0
-
 - name: Esma Kahveci
   photo: esma-kahveci.jpg
   info: PhD. Candidate, Distinguished Research Fellow at UMass Dartmouth, started 2021
@@ -30,13 +24,6 @@
   education1: PhD. in Computer Science, 2012
   education2: Master's in Economics, 2008
 
-- name: Xiaolin Ni
-  photo: xiaolin-ni.jpg
-  info: Research Assistant, started 2023
-  site: https://www.linkedin.com/in/xiaoliny
-  number_educ: 1
-  education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
-
 - name: Junhui Yao
   photo: junhui-yao.jpg
   info: Research Assistant, started 2024
@@ -45,17 +32,7 @@
   education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
   education2: B.A. in Communication, University of Colorado, Denver (ICB).
   
-- name: Vishal Kumar
-  photo: vishal-kumar.jpg
-  info: Research Intern, started 2024
-  site: https://vishyfishy02.github.io/
-  number_educ: 1
-  education1: B.S. in Computer Science and Engineering, The Ohio State University
 
-- name: Canwen Wang
-  photo: canwen-wang.jpg
-  info: Research Assistant, started 2024
-  number_educ: 2
-  education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
-  education2: M.F.A. in Visual Communication Design, Purdue University
+
+
   

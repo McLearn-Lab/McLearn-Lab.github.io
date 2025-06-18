@@ -4,9 +4,27 @@
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
 
-- date: April 2025
-  headline: Professor McLaren will give keynote talks at two upcoming events. <br /> 1. The EATEL summer school - May 13, 2025 <a href= "https://ea-tel.eu/jtelss25/keynotes#bm-mclaren">[ Announcement ]</a> <br /> 2. The Learning Ideas Conference - June 2025 <a href= "https://www.learningideasconf.org/bruce-martin-mclaren">[ Announcement ]</a>
+- date: June 2025
+  headline: Professor Mclaren gave a keynote talk at the Learning Ideas Conference 2025
+  link: https://www.learningideasconf.org/bruce-martin-mclaren
+  link_text: '[ Announcement ]'
   frontpage: 1
+
+- date: May 2025
+  headline: 'Professor McLaren gave a talk titled "Developing EdTech with Purpose: Applying Learning Science to Practice"'
+  link: https://www.youtube.com/watch?v=3GuRKsPgv2I&list=PLvPBRrhsHBsP-ODBku70JpnuYLSc0gned&index=5&t=1s
+  link_text: '[ Link to talk ]'
+  frontpage: 1
+
+- date: May 2025
+  headline: Professor McLaren gave a keynote talk at the EATEL summer school in Crete.
+  link: https://ea-tel.eu/jtelss25/keynotes#bm-mclaren
+  link_text: '[ Announcement ]'
+  frontpage: 1
+
+- date: April 2025
+  headline: Professor McLaren gave two keynote talks at the followingg events. <br /> 1. The EATEL summer school - May 13, 2025 <a href= "https://ea-tel.eu/jtelss25/keynotes#bm-mclaren">[ Announcement ]</a> <br /> 2. The Learning Ideas Conference - June 2025 <a href= "https://www.learningideasconf.org/bruce-martin-mclaren">[ Announcement ]</a>
+  frontpage: 0
 
 - date: February 2025
   headline: '<b>Published</b>: Zhang, J., Baker, R.S., Srivastava, N., Ocumpaugh, J.L., Mills, C., & McLaren, B.M. (2025). Carelessness detection using performance factor analysis: A new operationalization with unexpectedly different relationship to learning.'
@@ -14,7 +32,7 @@
   link_text: '[ pdf ]'
   link2: https://arxiv.org/html/2503.04737v1
   link2_text: '[ Online Citation ]'
-  frontpage: 1
+  frontpage: 0
 
 - date: February 2025
   headline: The McLearn Lab completed our first full-length study with our Angle Jungle game!

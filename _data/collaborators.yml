@@ -3,6 +3,37 @@
 #  info:
 #  site: 
 
+- name: Seth Goldstein
+  photo: seth-goldstein.jpg
+  info: Associate Professor, Carnegie Mellon University
+  site: https://csd.cmu.edu/people/faculty/seth-goldstein
+
+
+- name: Jaromír Šavelka
+  photo: jaromir-savelka.jpg
+  info: Researcher Associate, Carnegie Mellon University
+  site: https://www.cs.cmu.edu/~jsavelka/
+
+- name: Can Kultur
+  photo: can-kultur.jpg
+  info: Research Associate, Carngie Mellon University
+  site: https://www.linkedin.com/in/cankultur
+
+- name: Christopher Bogart
+  photo: christopher-bogart.jpg
+  info: Systems Scientist, Carnegie Mellon University
+  site: https://csd.cmu.edu/people/faculty/christopher-bogart
+
+- name: Ramayya Krishnan
+  photo: ramayya-krishnan.jpg
+  info: Dean, Heinz College of Information Systems and Public Policy and William W. and Ruth F. Cooper Professor of Management Science and Information Systems
+  site: https://www.heinz.cmu.edu/faculty-research/profiles/krishnan-ramayya
+
+- name: Majd Sakr
+  photo: majd-sakr.jpg
+  info: Chief Learning and Research Officer of LearnVantage at Accenture and Teaching Professor, Carnegie Mellon University
+  site: https://www.ece.cmu.edu/directory/bios/sakr-majd.html
+
 - name: Richard Mayer
   photo: richard-mayer.jpg
   info: Distinguished Professor, University of California, Santa Barbara

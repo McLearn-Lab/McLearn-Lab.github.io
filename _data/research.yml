@@ -15,7 +15,7 @@
 
 
 #   publications:
-  # - title (without authors and year)
+  # - title: (without authors and year)
   #   authors: 
   #   year: 
   #   image: (file name relative to images/publications/ (use a square image))
@@ -33,6 +33,30 @@
   #   link_display: 
   #   link_url: 
   #   pdf: 
+
+
+# ================================================================== ACE-AI ======================================================================================
+- title: ACE-AI
+  description: Exploring the usage of Artificial Intelligence in workforce training.
+  image: ace-ai.jpg
+
+  grants:
+
+  - link:
+    title:
+
+
+  publications:
+  - title: No publications yet. Stay tuned!
+    authors: 
+    year: 2025
+    image: stay-tuned.jpg
+    description: 
+    notes: 
+    link_display: 
+    link_url: 
+    
+
 
 # =========================================================== Racial and Gender Equity ==========================================================
 - title: Race and Gender
