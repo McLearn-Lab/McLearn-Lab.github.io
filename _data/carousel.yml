@@ -2,10 +2,6 @@
 #   image: (Image file, relative to folder images/research)
 #   caption_text: (caption displayed)
 
-- name: ACE-AI
-  image: ace-ai.jpg
-  caption_text: Carnegie Mellon Accenture Center of Excellence for AI (ACE-AI)
-
 - name: Race and Gender
   image: four-games.jpg
   caption_text: 'Race and Gender: How learning games can impact and support equity'
@@ -22,6 +18,11 @@
   image: ocean-adventure.jpg
   caption_text: Ocean Adventure
 
+- name: ACE-AI
+  image: ace-ai.jpg
+  caption_text: Carnegie Mellon Accenture Center of Excellence for AI (ACE-AI)
+
+  
 - name: AdaptErrEx
   image: adapterrex.jpg
   caption_text: Adapterrex

@@ -29,8 +29,7 @@ permalink: /research/
 <h4><a href="{{ project.site_link }}">{{ project.site_title }}</a></h4>
 {% for grant in project.grants %}
 {% if forloop.first %}<b>Grants:</b> {% endif %}
-{% if grant.link %}<a href="{{grant.link}}">{% endif %}
-{{grant.title}}{% unless forloop.last %},{% endunless %}
+{% if grant.link %}<a href="{{grant.link}}">{% endif %}{{grant.title}}{% unless forloop.last %},{% endunless %}
 {% if grant.link %}</a>{% endif %}
 {% endfor %}
 <a href="#publications-{{ project.title | replace: ' ', '-' }}" id="publications-{{ project.title | replace: ' ', '-' }}-toggler" data-toggle="collapse" class="pubs-toggler" aria-expanded="false">

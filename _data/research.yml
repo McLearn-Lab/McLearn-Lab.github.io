@@ -35,27 +35,7 @@
   #   pdf: 
 
 
-# ================================================================== ACE-AI ======================================================================================
-- title: ACE-AI
-  description: Exploring the usage of Artificial Intelligence in workforce training.
-  image: ace-ai.jpg
 
-  grants:
-
-  - link:
-    title:
-
-
-  publications:
-  - title: No publications yet. Stay tuned!
-    authors: 
-    year: 2025
-    image: stay-tuned.jpg
-    description: 
-    notes: 
-    link_display: 
-    link_url: 
-    
 
 
 # =========================================================== Racial and Gender Equity ==========================================================
@@ -253,6 +233,26 @@
     link_url: https://www.springer.com/series/16891
     pdf: https://www.cs.cmu.edu/~bmclaren/pubs/McLaren-DecimalPointARetrospective-BookChapter2024.pdf
 
+# ================================================================== ACE-AI ======================================================================================
+- title: ACE-AI
+  description: Exploring the usage of Artificial Intelligence in workforce training.
+  image: ace-ai.jpg
+
+  grants: 
+  - link:
+    title: Partnership with Accenture
+
+
+  publications:
+  - title: No publications yet. Stay tuned!
+    authors: 
+    year: 2025
+    image: stay-tuned.jpg
+    description: 
+    notes: 
+    link_display: 
+    link_url: 
+    
 
 # ===================================================== AdaptErrEx ==============================================================
 - title: AdaptErrEx
