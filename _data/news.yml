@@ -3,15 +3,20 @@
 #   link:
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
+- date: July 2025
+  headline: Aditi presented her paper at the AIED Doctoral Consortium in Palermo, Italy!
+  link: https://link.springer.com/chapter/10.1007/978-3-031-99261-2_45
+  link_text: '[ Link to paper ]'
+  frontpage: 1
 
 - date: June 2025
-  headline: Professor Mclaren gave a keynote talk at the Learning Ideas Conference 2025
-  link: https://www.learningideasconf.org/bruce-martin-mclaren
-  link_text: '[ Announcement ]'
+  headline: Professor McLaren gave a keynote talk at the Learning Ideas Conference 2025!
+  link: https://learningideasconf.s3.us-east-1.amazonaws.com/HTML/TLIC2025/26.html
+  link_text: '[ Link to talk ]'
   frontpage: 1
 
 - date: May 2025
-  headline: 'Professor McLaren gave a talk titled "Developing EdTech with Purpose: Applying Learning Science to Practice"'
+  headline: 'Professor McLaren gave a talk titled "Developing EdTech with Purpose: Applying Learning Science to Practice"!'
   link: https://www.youtube.com/watch?v=3GuRKsPgv2I&list=PLvPBRrhsHBsP-ODBku70JpnuYLSc0gned&index=5&t=1s
   link_text: '[ Link to talk ]'
   frontpage: 1

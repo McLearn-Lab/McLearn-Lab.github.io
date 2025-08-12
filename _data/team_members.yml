@@ -87,7 +87,11 @@
   number_educ: 1
   education1: (In progress) B.S. in Computer Science, Carnegie Mellon University
 
-
+- name: Michael Liu
+  photo: michael-liu.jpg
+  info: REU Intern, started 2025
+  number_educ: 1
+  education1: (In progress) B.S. in Mathematics, Carnegie Mellon University
 - name: "Interested in working with our lab?"
   photo: rock.jpg
   info: Visit our <a href="http://www.cs.cmu.edu/~bmclaren/mclearnlab/contact">contact page!</a>
