@@ -23,7 +23,7 @@
   info: Postdoctoral Researcher, started 2023
   site: https://scholar.google.com/citations?user=C3Gg9cwAAAAJ&hl=en
   number_educ: 4
-  education1: (In progress) Postdoctoral Fellow , Carnegie Mellon University
+  education1: (In progress) Postdoctoral Fellow, Carnegie Mellon University
   education2: PhD. in Educational Administration, Shiraz University
   education3: Master's in Educational Technology, Allameh Tabataba'i University
   education4: Bachelor's in Educational Technology, Allameh Tabataba'i University
@@ -43,7 +43,7 @@
   info: Research Programmer, started 2022
   site: https://www.linkedin.com/in/hayden-stec/
   number_educ: 3
-  education1: (In progress) Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+  education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
   education2: B.S. in Computer Science, University of Pittsburgh
   education3: B.A. in Politics-Philosophy, University of Pittsburgh
 
@@ -77,7 +77,7 @@
   photo: canwen-wang.jpg
   info: Research Assistant, started 2024
   number_educ: 2
-  education1: (In progress) Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+  education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
   education2: M.F.A. in Visual Communication Design, Purdue University
 
 - name: Angie Chi
@@ -92,6 +92,7 @@
   info: REU Intern, started 2025
   number_educ: 1
   education1: (In progress) B.S. in Mathematics, Carnegie Mellon University
+  
 - name: "Interested in working with our lab?"
   photo: rock.jpg
   info: Visit our <a href="http://www.cs.cmu.edu/~bmclaren/mclearnlab/contact">contact page!</a>
