@@ -5,7 +5,15 @@ excerpt: "McLearn Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
-
+# Team
+<div class="row">
+ <div class="col-sm-6">
+  <img class="img-responsive h-100 w-100 object-fit-cover" src="{{ site.url }}{{ site.baseurl }}/images/team/teampic1.jpg" />
+ </div>
+ <div class="col-sm-6">
+  <img class="img-responsive h-100 w-100 object-fit-cover" src="{{ site.url }}{{ site.baseurl }}/images/team/teampic2.jpg" style="margin-top:16.6%;"/>
+ </div>
+</div>
 # Group Members
 
 <!-- # Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), # # [administrative support](#administrative-support). -->
