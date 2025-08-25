@@ -9,6 +9,17 @@
 #     photo: 
 #     info: 
 #     site: 
+- year: 2025
+  people:
+  - name: Angie Chi
+    photo: angie-chi.jpg
+    info: B.S. in Computer Science Student, Carnegie Mellon University
+    site: https://www.linkedin.com/in/angie-c-9b0b551b5/
+
+  - name: Michael Liu
+    photo: michael-liu.jpg
+    info: B.S. in Mathematics Student, Carnegie Mellon University
+
 
 - year: 2024
   people:
