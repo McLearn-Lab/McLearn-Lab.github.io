@@ -3,6 +3,12 @@
 #   link:
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
+- date: September 2025
+  headline: Professor McLaren is starting a new project with Digital Futures, and he will be visiting again in April 2026.
+  link: https://www.digitalfutures.kth.se/mobility-projects/bruce-m-mclaren/
+  link_text: '[ Link ]'
+  frontpage: 1
+  
 - date: July 2025
   headline: Aditi presented her paper at the AIED Doctoral Consortium in Palermo, Italy!
   link: https://link.springer.com/chapter/10.1007/978-3-031-99261-2_45
