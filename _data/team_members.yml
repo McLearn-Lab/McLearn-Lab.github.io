@@ -69,7 +69,19 @@
   education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
   education2: M.F.A. in Visual Communication Design, Purdue University
 
+- name: Autumn Qiu
+  photo: autumn-qiu.jpg
+  info: Research Assistant, started 2024
+  site: https://www.linkedin.com/in/autumn-qiu/
+  number_educ: 1
+  education1: (In progress) B.S. in Information Systems, Carnegie Mellon University
 
+- name: Angie Chi
+  photo: angie-chi.jpg
+  info: B.S. in Computer Science Student, Carnegie Mellon University
+  site: https://www.linkedin.com/in/angie-c-9b0b551b5/
+  number_educ: 1
+  education1: (In progress) B.S. in Computer Science, Carnegie Mellon University
   
 - name: "Interested in working with our lab?"
   photo: rock.jpg
