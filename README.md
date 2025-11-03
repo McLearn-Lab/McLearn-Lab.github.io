@@ -35,7 +35,7 @@ To edit the different parts of the website, you will need to change the correspo
 ### HOME PAGE CAROUSEL: 
 
 In `_data/carousel.yml`, add a new entry following this pattern.
-![Local Image](./README-assets/carousel.png)
+![Local Image](./README/carousel.png)
 
 Add your desired image with the title you specified in the yml to the folder `images/homepageslider/`. 
 
@@ -43,7 +43,7 @@ By default, this image will on-click route to a corresponding entry in the resea
 
 ### NEWS:
 Add an entry in `_data/news.yml` following this pattern. 
-![Local Image](./README-assets/news.png)
+![Local Image](./README/news.png)
 `frontpage` should be 1 if you want it on the main page, or 0 if you only want it visible upon clicking "see all news".
 </details>
 
@@ -55,7 +55,7 @@ Add an entry in `_data/news.yml` following this pattern.
 
 ### GROUP MEMBERS: 
 In `_data/team_members.yml`, add a new entry following this pattern. 
-![Local Image](./README-assets/group-members.png)
+![Local Image](./README/group-members.png)
 Add your corresponding photo to `images/team/`. 
 `number_educ` should match the amount of education bullet points you have listed. 
 
@@ -64,23 +64,23 @@ Follow the same instructions as for group members, but edit `_data/associated_me
 
 ### KEY COLLABORATORS:
 Add an entry to `_data/collaborators.yml`, following this pattern.
-![Local Image](./README-assets/collaborators.png)
+![Local Image](./README/collaborators.png)
 Add your corresponding photo to `images/team/`.
 
 ### FORMER MEMBERS:
 Add an entry to `_data/former_members.yml`, following this pattern.
-![Local Image](./README-assets/former-members.png)
+![Local Image](./README/former-members.png)
 Add your corresponding photo to `images/team/`.
 
 ### FORMER REU PROGRAM INTERNS:
 Add an entry to `_data/former_interns.yml`, following this pattern.
-![Local Image](./README-assets/former-interns.png)
+![Local Image](./README/former-interns.png)
 Add your corresponding photo to `images/team/`.
 <b>Make sure you follow proper yml nesting syntax, adding the individual interns into the `people` field of the given year.</b> 
 
 ### FORMER VISITORS:
 Add an entry to `data_former_visitors.yml` following this pattern.
-![Local Image](./README-assets/visitors.png)
+![Local Image](./README/visitors.png)
 
 ### ADMINISTRATIVE SUPPORT:
 To edit the administrative support info, you can find that at the bottom of `_pages/team.md`.
@@ -94,7 +94,7 @@ To edit the administrative support info, you can find that at the bottom of `_pa
 ### RESEARCH PROJECTS: 
 
 To add an entirely new research project, in `_data/research.yml`, add a new entry following this pattern.
-![Local Image](./README-assets/research.png)
+![Local Image](./README/research.png)
 
 Add your desired image for the project with the title you specified in the yml to the folder `images/research/`. 
 

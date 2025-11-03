@@ -6,7 +6,18 @@
 {% if article.frontpage == 1 %}
 <p>
     <span style="font-size: 1.2em;"><em><b>{{ article.date }}</b></em></span><br>
-    {{ article.headline }}<br>
+    {% if article.image %}
+        <div class="text-center my-3">
+            <img 
+                src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.image }}" 
+                class="d-block mx-auto img-fluid" 
+                style="max-width:80%; margin-top:10px; margin-bottom:10px;"
+            >
+            <br>
+        </div>
+        
+    {% endif %}
+    {{ article.headline }}<br>    
     {% if article.link %}<a href={{article.link}}>{{article.link_text}}</a>{% endif %}
     {% if article.link2 %}<a href={{article.link2}}>{{article.link2_text}}</a>{% endif %}
 </p>

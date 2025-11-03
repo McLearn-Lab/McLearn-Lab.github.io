@@ -1,5 +1,6 @@
 # - date: 
 #   headline: 
+#   image:  optional, name of image file in /images/news (without file extension)
 #   link:
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
@@ -12,6 +13,7 @@
 
 - date: October 2025
   headline: 'Professor McLaren gave a talk at the Edunext meeting in Bari, Italy on October 20, 2025 titled: "AI in Education: Six Approaches That Have Been Effective For Learning.” Edunext is a collective of over 30 universities in Italy who are charting out a new direction in higher education in the age of Gen AI.'
+  image: 'edunext-2025.jpg'
   link: https://edunext.eu/
   link_text: '[ Link ]'
   frontpage: 1
@@ -26,25 +28,25 @@
   headline: Aditi presented her paper at the AIED Doctoral Consortium in Palermo, Italy!
   link: https://link.springer.com/chapter/10.1007/978-3-031-99261-2_45
   link_text: '[ Link to paper ]'
-  frontpage: 1
+  frontpage: 0
 
 - date: June 2025
   headline: Professor McLaren gave a keynote talk at the Learning Ideas Conference 2025!
   link: https://learningideasconf.s3.us-east-1.amazonaws.com/HTML/TLIC2025/26.html
   link_text: '[ Link to talk ]'
-  frontpage: 1
+  frontpage: 0
 
 - date: May 2025
   headline: 'Professor McLaren gave a talk titled "Developing EdTech with Purpose: Applying Learning Science to Practice"!'
   link: https://www.youtube.com/watch?v=3GuRKsPgv2I&list=PLvPBRrhsHBsP-ODBku70JpnuYLSc0gned&index=5&t=1s
   link_text: '[ Link to talk ]'
-  frontpage: 1
+  frontpage: 0
 
 - date: May 2025
   headline: Professor McLaren gave a keynote talk at the EATEL summer school in Crete.
   link: https://ea-tel.eu/jtelss25/keynotes#bm-mclaren
   link_text: '[ Announcement ]'
-  frontpage: 1
+  frontpage: 0
 
 - date: February 2025
   headline: '<b>Published</b>: Zhang, J., Baker, R.S., Srivastava, N., Ocumpaugh, J.L., Mills, C., & McLaren, B.M. (2025). Carelessness detection using performance factor analysis: A new operationalization with unexpectedly different relationship to learning.'
@@ -56,7 +58,7 @@
 
 - date: February 2025
   headline: The McLearn Lab completed our first full-length study with our Angle Jungle game!
-  frontpage: 1 
+  frontpage: 0
   
 - date: January 2025
   headline: '<b>Published</b>: Borchers, C., Fleischer, H., Yaron, D.J., McLaren, B.M., Scheiter, K., Aleven, V., & Schanze, S. (2025). Problem-solving strategies in stoichiometry across two intelligent tutoring systems: A cross-national study.  <em>Journal of Science Education and Technology.</em>'
@@ -72,7 +74,7 @@
   link_text: '[ pdf ]'
   link2: https://www.barnesandnoble.com/w/artificial-intelligence-in-education-peter-ilic/1146073453
   link2_text: '[ Online Citation ]'
-  frontpage: 1
+  frontpage: 0
   
 - date: October 2024
   headline: Meaningful Play 2024 was held at CMU, and Hayden gave a talk about our gender effect findings with Decimal Point! <br/>Citation:<br/>Stec, H., Richey, J.E., Nguyen, H., Else-Quest, N., Hammer, J., Baker, R.S., Arroyo, I., & McLaren, B.M. (2024). <em>Using a multi-dimensional model of gender to assess learning with different game-based learning narratives.</em> Paper presented at Meaningful Play 2024. Pittsburgh, PA, October 16-18, 2024 
