@@ -3,6 +3,19 @@
 #   link:
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
+
+- date: October 2025
+  headline: 'News Article: CMU, Accenture Advance AI in Workforce Training'
+  link: https://www.cs.cmu.edu/news/2025/cmu-accenture-advance-ai
+  link_text: '[ Link ]'
+  frontpage: 1
+
+- date: October 2025
+  headline: 'Professor McLaren gave a talk at the Edunext meeting in Bari, Italy on October 20, 2025 titled: "AI in Education: Six Approaches That Have Been Effective For Learning.” Edunext is a collective of over 30 universities in Italy who are charting out a new direction in higher education in the age of Gen AI.'
+  link: https://edunext.eu/
+  link_text: '[ Link ]'
+  frontpage: 1
+
 - date: September 2025
   headline: Professor McLaren is starting a new project with Digital Futures, and he will be visiting again in April 2026.
   link: https://www.digitalfutures.kth.se/mobility-projects/bruce-m-mclaren/
