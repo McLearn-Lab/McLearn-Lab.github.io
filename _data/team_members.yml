@@ -18,13 +18,6 @@
   education3: M.S. in Computer Science, University of Pittsburgh
   education4: B.S. in Computer Science, Millersville University 
 
-- name: Leah Teffera
-  photo: leah-teffera.jpg
-  info: Project Manager, started 2022
-  site: https://www.linkedin.com/in/lteffera/
-  number_educ: 2
-  education1: (In progress) Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
-  education2: B.A. in Computer Science, Wellesley College
 
 
 - name: Hayden Stec
@@ -61,13 +54,6 @@
   site: https://www.linkedin.com/in/daniel-pollock-117895207/
   number_educ: 1
   education1: B.S. in Applied Developmental Psychology, University of Pittsburgh
-
-- name: Canwen Wang
-  photo: canwen-wang.jpg
-  info: Research Assistant, started 2024
-  number_educ: 2
-  education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
-  education2: M.F.A. in Visual Communication Design, Purdue University
 
 - name: Autumn Qiu
   photo: autumn-qiu.jpg

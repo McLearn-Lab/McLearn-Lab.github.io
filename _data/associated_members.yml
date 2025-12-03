@@ -8,6 +8,14 @@
 #  education3:
 #  education4:
 
+- name: Leah Teffera
+  photo: leah-teffera.jpg
+  info: Project Manager, started 2022
+  site: https://www.linkedin.com/in/lteffera/
+  number_educ: 2
+  education1: (In progress) Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+  education2: B.A. in Computer Science, Wellesley College
+
 - name: Esma Kahveci
   photo: esma-kahveci.jpg
   info: PhD. Candidate, Distinguished Research Fellow at UMass Dartmouth, started 2021
