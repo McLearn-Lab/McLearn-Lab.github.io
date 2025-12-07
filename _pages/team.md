@@ -282,7 +282,7 @@ permalink: /team/
 {% endfor %}
 
 
-## Former Visitors
+<!-- ## Former Visitors
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -296,7 +296,7 @@ permalink: /team/
 {% endfor %}
 </div>
 
-</div>
+</div> -->
 
 ## Administrative Support
 <a href = "https://hcii.cmu.edu/people/meagan-bulisco">Meagan Bulisco</a> serves as Administrative Assistant for us and other labs within HCII at CMU.

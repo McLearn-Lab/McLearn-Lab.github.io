@@ -4,6 +4,16 @@
 #   link:
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
+- date: December 2025 
+  headline: 'Aditi Haiman gives a talk at ICCE 2025 in Chennai, India.  She presented the paper titled: “Impact of digital learning game narratives on affective experiences and learning.” '
+  image: 'aditi-icce-2025.jpg'
+  frontpage: 1
+
+- date: December 2025
+  headline: 'Professor McLaren does a live interview on South Korean radio on the topic of AI-powered toys.'
+  link_text: '[ Link ]'
+  link: 'https://www.linkedin.com/posts/bruce-martin-mclaren-84269826_today-i-was-interviewed-by-a-south-korean-activity-7402157641961062400-1r7k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVwu7IBFoTRcjhflyFVJK7rMa5GRMn9tLU'
+  frontpage: 1
 
 - date: October 2025
   headline: 'News Article: CMU, Accenture Advance AI in Workforce Training'
@@ -22,7 +32,7 @@
   headline: Professor McLaren is starting a new project with Digital Futures in Stockholm, Sweden, and he will be visiting again in April 2026.
   link: https://www.digitalfutures.kth.se/mobility-projects/bruce-m-mclaren/
   link_text: '[ Link ]'
-  frontpage: 1
+  frontpage: 
   
 - date: July 2025
   headline: Aditi presented her paper at the AIED Doctoral Consortium in Palermo, Italy!
