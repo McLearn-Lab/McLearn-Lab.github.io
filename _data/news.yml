@@ -4,10 +4,35 @@
 #   link:
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
+- date: April 2026
+  headline: "Professor McLaren was an invited speaker at <a href='https://www.digitalfutures.kth.se/'>Digital Futures in Stockholm, Sweden.</a> Title of talk: 'Digital Game-Based Learning from Childhood to Adulthood: Evidence, Insights, and Future Directions,'' Stockhom, Sweden | April 16, 2026 "
+  frontpage: 1
+  link: https://www.digitalfutures.kth.se/event/seminar-bruce-m-mclaren/
+  link_text: '[ See announcement ]'
+  link2: https://www.youtube.com/watch?v=f45TgTvgNPY
+  link2_text: '[ Watch the invited talk ]'
+
+- date: March 2026
+  headline: "Professor McLaren did an interview with the American Association for the Advancement of Science's (AAAS) <a href='https://www.sciline.org/'>Sciline</a> on the topic of AI in education."
+  frontpage: 1
+  link: https://www.sciline.org/tech/how-is-ai-changing-education/
+  link_text: '[ Link to interview ]<br>'
+  link2: https://www.youtube.com/watch?v=VH86d3jl51Q
+  link2_text: '[ Link to DC News Now segment covering interview ]'
+
+- date: February 2026 
+  headline: 'The McLearn Lab has started a new project with <a href="https://www.cmu.edu/news/stories/archives/2026/January/learnvia"> Learnvia</a>: Integrating a Socratic Reflection Dialogue Component in Calculus Content'
+  frontpage: 1
+  image: 'learnvia.jpg'
+  link: https://www.cs.cmu.edu/~bmclaren/mclearnlab/learnvia
+  link_text: We are looking for calculus instructors to collaborate with!
+
 - date: December 2025 
   headline: 'Aditi Haiman gives a talk at ICCE 2025 in Chennai, India.  She presented the paper titled: “Impact of digital learning game narratives on affective experiences and learning.” '
   image: 'aditi-icce-2025.jpg'
   frontpage: 1
+  link: https://library.apsce.net/index.php/ICCE/article/view/5994
+  link_text: '[ Link to paper]'
 
 - date: December 2025
   headline: 'Professor McLaren does a live interview on South Korean radio on the topic of AI-powered toys.'
@@ -26,13 +51,13 @@
   image: 'edunext-2025.jpg'
   link: https://edunext.eu/
   link_text: '[ Link ]'
-  frontpage: 1
+  frontpage: 0
 
 - date: September 2025
   headline: Professor McLaren is starting a new project with Digital Futures in Stockholm, Sweden, and he will be visiting again in April 2026.
   link: https://www.digitalfutures.kth.se/mobility-projects/bruce-m-mclaren/
   link_text: '[ Link ]'
-  frontpage: 
+  frontpage: 0
   
 - date: July 2025
   headline: Aditi presented her paper at the AIED Doctoral Consortium in Palermo, Italy!
