@@ -5,6 +5,12 @@
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
 - date: April 2026
+  headline: "Professor McLaren participated in a podcast about digital learning games and AI in Stockholm, Sweden.  Thank you to <a href='https://www.kth.se/profile/oviberg'>Professor Olga Viberg</a> for hosting Professor McLaren's stay in Sweden!"
+  frontpage: 1
+  link: https://www.youtube.com/watch?v=1Ogx2SbUnV8&feature=youtu.be
+  link_text: '[ Watch the podcast ]'
+
+- date: April 2026
   headline: "Professor McLaren was an invited speaker at <a href='https://www.digitalfutures.kth.se/'>Digital Futures in Stockholm, Sweden.</a> Title of talk: 'Digital Game-Based Learning from Childhood to Adulthood: Evidence, Insights, and Future Directions,'' Stockhom, Sweden | April 16, 2026 "
   frontpage: 1
   link: https://www.digitalfutures.kth.se/event/seminar-bruce-m-mclaren/
@@ -30,7 +36,7 @@
 - date: December 2025 
   headline: 'Aditi Haiman gives a talk at ICCE 2025 in Chennai, India.  She presented the paper titled: “Impact of digital learning game narratives on affective experiences and learning.” '
   image: 'aditi-icce-2025.jpg'
-  frontpage: 1
+  frontpage: 0
   link: https://library.apsce.net/index.php/ICCE/article/view/5994
   link_text: '[ Link to paper]'
 
@@ -38,13 +44,13 @@
   headline: 'Professor McLaren does a live interview on South Korean radio on the topic of AI-powered toys.'
   link_text: '[ Link ]'
   link: 'https://www.linkedin.com/posts/bruce-martin-mclaren-84269826_today-i-was-interviewed-by-a-south-korean-activity-7402157641961062400-1r7k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVwu7IBFoTRcjhflyFVJK7rMa5GRMn9tLU'
-  frontpage: 1
+  frontpage: 0
 
 - date: October 2025
   headline: 'News Article: CMU, Accenture Advance AI in Workforce Training'
   link: https://www.cs.cmu.edu/news/2025/cmu-accenture-advance-ai
   link_text: '[ Link ]'
-  frontpage: 1
+  frontpage: 0
 
 - date: October 2025
   headline: 'Professor McLaren gave a talk at the Edunext meeting in Bari, Italy on October 20, 2025 titled: "AI in Education: Six Approaches That Have Been Effective For Learning.” Edunext is a collective of over 30 universities in Italy who are charting out a new direction in higher education in the age of Gen AI.'
