@@ -29,6 +29,7 @@ incremental: false
 
 exclude:
   - README.md
+  - .git
 
 
 # Markdown Processing
