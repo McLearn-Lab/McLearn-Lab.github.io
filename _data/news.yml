@@ -4,6 +4,25 @@
 #   link:
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
+
+- date: June 2026
+  headline: "Aditi Haiman had three papers published at AIED 2026 and presented one of the three: 'Gender Differences in Learning and Test-Taking Experiences with Digital Game-Based Assessment.'"
+  frontpage: 1
+  link: "https://www.linkedin.com/posts/aditi-haiman-54912722a_clue-ai-a-collaborative-game-based-learning-activity-7479786997314699264-wbFr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlTwEkBInUx-j1Rbr4ga_IWu1DoZRc0vGM"
+  link_text: "[ See post ]"
+
+- date: June 2026
+  headline: "Prof. McLaren's Blue Sky paper, 'VanLehn's Two Loops Aren't Enough: Toward Meta-Adaptive Control of Instructional Form', was presented at AIED 2026."
+  frontpage: 1
+  link: "https://www.linkedin.com/posts/bruce-martin-mclaren-84269826_artificial-intelligence-in-education-posters-share-7479403403731705856-pvyr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVwu7IBFoTRcjhflyFVJK7rMa5GRMn9tLU"
+  link_text: '[ See post ]'
+
+- date: June 2026
+  headline: "At the AIED 2026 conference in Seoul, South Korea, Prof. McLaren led the committee that presented the annual AIED Lifetime Achievement Award."
+  frontpage: 1
+  link: "https://www.linkedin.com/posts/bruce-martin-mclaren-84269826_at-the-recently-concluded-aied-2026-conference-ugcPost-7479398428045701120-6wAn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVwu7IBFoTRcjhflyFVJK7rMa5GRMn9tLU"
+  link_text: '[ See post ]'
+
 - date: April 2026
   headline: "Professor McLaren participated in a podcast about digital learning games and AI in Stockholm, Sweden.  Thank you to <a href='https://www.kth.se/profile/oviberg'>Professor Olga Viberg</a> for hosting Professor McLaren's stay in Sweden!"
   frontpage: 1
@@ -12,7 +31,7 @@
 
 - date: April 2026
   headline: "Professor McLaren was an invited speaker at <a href='https://www.digitalfutures.kth.se/'>Digital Futures in Stockholm, Sweden.</a> Title of talk: 'Digital Game-Based Learning from Childhood to Adulthood: Evidence, Insights, and Future Directions,'' Stockhom, Sweden | April 16, 2026 "
-  frontpage: 1
+  frontpage: 0
   link: https://www.digitalfutures.kth.se/event/seminar-bruce-m-mclaren/
   link_text: '[ See announcement ]'
   link2: https://www.youtube.com/watch?v=f45TgTvgNPY
@@ -20,7 +39,7 @@
 
 - date: March 2026
   headline: "Professor McLaren did an interview with the American Association for the Advancement of Science's (AAAS) <a href='https://www.sciline.org/'>Sciline</a> on the topic of AI in education."
-  frontpage: 1
+  frontpage: 0
   link: https://www.sciline.org/tech/how-is-ai-changing-education/
   link_text: '[ Link to interview ]<br>'
   link2: https://www.youtube.com/watch?v=VH86d3jl51Q
@@ -28,7 +47,7 @@
 
 - date: February 2026 
   headline: 'The McLearn Lab has started a new project with <a href="https://www.cmu.edu/news/stories/archives/2026/January/learnvia"> Learnvia</a>: Integrating a Socratic Reflection Dialogue Component in Calculus Content'
-  frontpage: 1
+  frontpage: 0
   image: 'learnvia.jpg'
   link: https://www.cs.cmu.edu/~bmclaren/mclearnlab/learnvia
   link_text: We are looking for calculus instructors to collaborate with!
