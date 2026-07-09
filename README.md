@@ -8,19 +8,20 @@ https://www.allanlab.org/aboutwebsite.html
 
 # Editing instructions
 
-# 1: Install Dependencies
+# 1: Clone repository
 1) <a href="https://git-scm.com/downloads"> Git</a> and a Github account for checking out these files and uploading your changes.
-2) <a href="https://www.ruby-lang.org/en/downloads/"> Ruby version 2.5 or later </a>, the language the engine uses. (You don't need to know the language just have it installed)
-3) <a href="https://jekyllrb.com/">Jekyll</a> the Ruby library used that allows for easy-to-use interfacing for static sites. I recommend installing this after you've cloned the repository to your machine (step 2). 
-
-# 2: Clone repository 
-You will need to clone this repository onto your machine. 
+2) You will need to clone this repository onto your machine. 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+# 2: Install dependencies
+1) <a href="https://www.ruby-lang.org/en/downloads/"> Ruby version 3.4.1 </a>, the language the engine uses. (You don't need to know the language just have it installed)
+2) You also need bundle, the ruby package manager. 
+3) When you have those software installed, run `bundle install` to install the ruby packages needed, including jekyll. 
 
 # 3: Launch development server 
 To launch the development server, run 
 
-`jekyll serve` 
+` bundle exec jekyll serve` 
 
 click the link in terminal to pull up a development version of the site.
 
@@ -115,7 +116,7 @@ Add your picture for the publication to `images/publications`.
 Once you are happy with your changes, you can't send it to the server just yet because it is configured with your machine as the server.
 Before sending the site into the server, you need to package it by running
 
-`jekyll build`
+`bundle exec jekyll build`
 
 This packages a static site nicely into the folder `_site`, with Bruce's server space configured as the server.
 
