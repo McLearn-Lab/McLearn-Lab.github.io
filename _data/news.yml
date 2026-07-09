@@ -5,6 +5,12 @@
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
 
+- date: July 2026
+  headline: "Professor McLaren was interviewed about his career journey and AI by his alma mater, University of Pittsburgh's School of Computing and Information (SCI)"
+  frontpage: 1
+  link: "https://www.sci.pitt.edu/news/built-pittsburgh-forty-year-journey-through-ai-isp-alum"
+  link_text: "[ Link to article ]"
+
 - date: June 2026
   headline: "Aditi Haiman had three papers published at AIED 2026 and presented one of the three: 'Gender Differences in Learning and Test-Taking Experiences with Digital Game-Based Assessment.'"
   frontpage: 1
