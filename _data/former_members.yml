@@ -4,6 +4,16 @@
 #   role_with_lab: 
 #   site: 
 
+- name: Hayden Stec
+  photo: hayden-stec.jpg
+  info: PhD Student, EPFL
+  role_with_lab: Research Programmer
+  site: https://www.linkedin.com/in/hayden-stec/
+  # number_educ: 3
+  # education1: Master of Educational Technology and Applied Learning Sciences, Carnegie Mellon University
+  # education2: B.S. in Computer Science, University of Pittsburgh
+  # education3: B.A. in Politics-Philosophy, University of Pittsburgh
+
 - name: Mahboobeh Mehrvarz
   photo: mahboobeh-mehrvarz.jpg
   info: Associated Member
