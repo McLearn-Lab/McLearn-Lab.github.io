@@ -4,7 +4,11 @@
 #   link:
 #   link_text:
 #   frontpage: 1 or 0, depending whether to display on the front page of website (vs just in the all news section)
-
+- date: September 2026
+  headline: "Marshall An presents at <a href='https://ea-tel.eu/ectel2026'>ECTEL 2026</a> in Valencia, Spain: 'Adapting Intelligent Tutoring Systems for Technical Workforce Training: A Case Study of Two Cybersecurity Tutor Designs'"
+  frontpage: 1
+  image: 'marshall-ectel-2026.jpg'
+  
 - date: July 2026
   headline: "Professor McLaren was interviewed about his career journey and AI by his alma mater, University of Pittsburgh's School of Computing and Information (SCI)"
   frontpage: 1
