@@ -241,7 +241,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former <a href="https://new.nsf.gov/funding/opportunities/research-experiences-undergraduates-reu">REU Program</a> Interns
+## Former Summer Interns
 {% for year in site.data.former_interns %}
 
 

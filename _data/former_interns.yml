@@ -9,6 +9,13 @@
 #     photo: 
 #     info: 
 #     site: 
+- year: 2026
+  people:
+  - name: Brian Seo
+    photo: brian-seo.jpg
+    info: B.S. in Computer Science Student, Princeton University
+    site: https://www.linkedin.com/in/brian-y-seo/
+ 
 - year: 2025
   people:
   - name: Angie Chi
